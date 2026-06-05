@@ -1,0 +1,5 @@
+Iniciando servidor TCP...
+Arquivo de saída: data/received/tcp_A_run13.bin
+[TCP] Servidor escutando em 0.0.0.0:5000
+[TCP] Conexão recebida de ('172.28.0.3', 48350)
+[TCP] Arquivo recebido: 1048576 bytes

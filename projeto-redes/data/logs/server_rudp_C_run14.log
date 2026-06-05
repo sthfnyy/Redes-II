@@ -1,0 +1,1682 @@
+Iniciando servidor R-UDP...
+Arquivo de saída: data/received/rudp_C_run14.bin
+[RUDP-GBN] Servidor escutando em 0.0.0.0:5001
+[RUDP-GBN] Aguardando pacotes...
+[RUDP-GBN] Recebido em ordem DATA seq=0. ACK=0
+[RUDP-GBN] Recebido em ordem DATA seq=1. ACK=1
+[RUDP-GBN] Recebido em ordem DATA seq=2. ACK=2
+[RUDP-GBN] Recebido em ordem DATA seq=3. ACK=3
+[RUDP-GBN] Recebido em ordem DATA seq=4. ACK=4
+[RUDP-GBN] Recebido em ordem DATA seq=5. ACK=5
+[RUDP-GBN] Recebido em ordem DATA seq=6. ACK=6
+[RUDP-GBN] Fora de ordem DATA seq=9. Esperado=7. Reenviando ACK=6
+[RUDP-GBN] Fora de ordem DATA seq=10. Esperado=7. Reenviando ACK=6
+[RUDP-GBN] Fora de ordem DATA seq=11. Esperado=7. Reenviando ACK=6
+[RUDP-GBN] Fora de ordem DATA seq=12. Esperado=7. Reenviando ACK=6
+[RUDP-GBN] Fora de ordem DATA seq=13. Esperado=7. Reenviando ACK=6
+[RUDP-GBN] Fora de ordem DATA seq=14. Esperado=7. Reenviando ACK=6
+[RUDP-GBN] Fora de ordem DATA seq=8. Esperado=7. Reenviando ACK=6
+[RUDP-GBN] Fora de ordem DATA seq=10. Esperado=7. Reenviando ACK=6
+[RUDP-GBN] Fora de ordem DATA seq=11. Esperado=7. Reenviando ACK=6
+[RUDP-GBN] Fora de ordem DATA seq=13. Esperado=7. Reenviando ACK=6
+[RUDP-GBN] Fora de ordem DATA seq=14. Esperado=7. Reenviando ACK=6
+[RUDP-GBN] Recebido em ordem DATA seq=7. ACK=7
+[RUDP-GBN] Recebido em ordem DATA seq=8. ACK=8
+[RUDP-GBN] Recebido em ordem DATA seq=9. ACK=9
+[RUDP-GBN] Fora de ordem DATA seq=11. Esperado=10. Reenviando ACK=9
+[RUDP-GBN] Fora de ordem DATA seq=12. Esperado=10. Reenviando ACK=9
+[RUDP-GBN] Fora de ordem DATA seq=13. Esperado=10. Reenviando ACK=9
+[RUDP-GBN] Fora de ordem DATA seq=14. Esperado=10. Reenviando ACK=9
+[RUDP-GBN] Fora de ordem DATA seq=15. Esperado=10. Reenviando ACK=9
+[RUDP-GBN] Fora de ordem DATA seq=16. Esperado=10. Reenviando ACK=9
+[RUDP-GBN] Fora de ordem DATA seq=17. Esperado=10. Reenviando ACK=9
+[RUDP-GBN] Recebido em ordem DATA seq=10. ACK=10
+[RUDP-GBN] Recebido em ordem DATA seq=11. ACK=11
+[RUDP-GBN] Recebido em ordem DATA seq=12. ACK=12
+[RUDP-GBN] Recebido em ordem DATA seq=13. ACK=13
+[RUDP-GBN] Recebido em ordem DATA seq=14. ACK=14
+[RUDP-GBN] Recebido em ordem DATA seq=15. ACK=15
+[RUDP-GBN] Recebido em ordem DATA seq=16. ACK=16
+[RUDP-GBN] Recebido em ordem DATA seq=17. ACK=17
+[RUDP-GBN] Recebido em ordem DATA seq=18. ACK=18
+[RUDP-GBN] Fora de ordem DATA seq=21. Esperado=19. Reenviando ACK=18
+[RUDP-GBN] Fora de ordem DATA seq=22. Esperado=19. Reenviando ACK=18
+[RUDP-GBN] Fora de ordem DATA seq=23. Esperado=19. Reenviando ACK=18
+[RUDP-GBN] Fora de ordem DATA seq=24. Esperado=19. Reenviando ACK=18
+[RUDP-GBN] Fora de ordem DATA seq=25. Esperado=19. Reenviando ACK=18
+[RUDP-GBN] Fora de ordem DATA seq=26. Esperado=19. Reenviando ACK=18
+[RUDP-GBN] Recebido em ordem DATA seq=19. ACK=19
+[RUDP-GBN] Recebido em ordem DATA seq=20. ACK=20
+[RUDP-GBN] Recebido em ordem DATA seq=21. ACK=21
+[RUDP-GBN] Recebido em ordem DATA seq=22. ACK=22
+[RUDP-GBN] Recebido em ordem DATA seq=23. ACK=23
+[RUDP-GBN] Recebido em ordem DATA seq=24. ACK=24
+[RUDP-GBN] Recebido em ordem DATA seq=25. ACK=25
+[RUDP-GBN] Recebido em ordem DATA seq=26. ACK=26
+[RUDP-GBN] Recebido em ordem DATA seq=27. ACK=27
+[RUDP-GBN] Fora de ordem DATA seq=29. Esperado=28. Reenviando ACK=27
+[RUDP-GBN] Fora de ordem DATA seq=30. Esperado=28. Reenviando ACK=27
+[RUDP-GBN] Fora de ordem DATA seq=33. Esperado=28. Reenviando ACK=27
+[RUDP-GBN] Fora de ordem DATA seq=34. Esperado=28. Reenviando ACK=27
+[RUDP-GBN] Recebido em ordem DATA seq=28. ACK=28
+[RUDP-GBN] Recebido em ordem DATA seq=29. ACK=29
+[RUDP-GBN] Recebido em ordem DATA seq=30. ACK=30
+[RUDP-GBN] Recebido em ordem DATA seq=31. ACK=31
+[RUDP-GBN] Recebido em ordem DATA seq=32. ACK=32
+[RUDP-GBN] Recebido em ordem DATA seq=33. ACK=33
+[RUDP-GBN] Recebido em ordem DATA seq=34. ACK=34
+[RUDP-GBN] Recebido em ordem DATA seq=35. ACK=35
+[RUDP-GBN] Recebido em ordem DATA seq=36. ACK=36
+[RUDP-GBN] Recebido em ordem DATA seq=37. ACK=37
+[RUDP-GBN] Recebido em ordem DATA seq=38. ACK=38
+[RUDP-GBN] Recebido em ordem DATA seq=39. ACK=39
+[RUDP-GBN] Recebido em ordem DATA seq=40. ACK=40
+[RUDP-GBN] Recebido em ordem DATA seq=41. ACK=41
+[RUDP-GBN] Recebido em ordem DATA seq=42. ACK=42
+[RUDP-GBN] Recebido em ordem DATA seq=43. ACK=43
+[RUDP-GBN] Recebido em ordem DATA seq=44. ACK=44
+[RUDP-GBN] Recebido em ordem DATA seq=45. ACK=45
+[RUDP-GBN] Recebido em ordem DATA seq=46. ACK=46
+[RUDP-GBN] Recebido em ordem DATA seq=47. ACK=47
+[RUDP-GBN] Recebido em ordem DATA seq=48. ACK=48
+[RUDP-GBN] Recebido em ordem DATA seq=49. ACK=49
+[RUDP-GBN] Recebido em ordem DATA seq=50. ACK=50
+[RUDP-GBN] Recebido em ordem DATA seq=51. ACK=51
+[RUDP-GBN] Recebido em ordem DATA seq=52. ACK=52
+[RUDP-GBN] Recebido em ordem DATA seq=53. ACK=53
+[RUDP-GBN] Recebido em ordem DATA seq=54. ACK=54
+[RUDP-GBN] Recebido em ordem DATA seq=55. ACK=55
+[RUDP-GBN] Recebido em ordem DATA seq=56. ACK=56
+[RUDP-GBN] Recebido em ordem DATA seq=57. ACK=57
+[RUDP-GBN] Recebido em ordem DATA seq=58. ACK=58
+[RUDP-GBN] Recebido em ordem DATA seq=59. ACK=59
+[RUDP-GBN] Fora de ordem DATA seq=61. Esperado=60. Reenviando ACK=59
+[RUDP-GBN] Fora de ordem DATA seq=62. Esperado=60. Reenviando ACK=59
+[RUDP-GBN] Fora de ordem DATA seq=63. Esperado=60. Reenviando ACK=59
+[RUDP-GBN] Fora de ordem DATA seq=64. Esperado=60. Reenviando ACK=59
+[RUDP-GBN] Fora de ordem DATA seq=65. Esperado=60. Reenviando ACK=59
+[RUDP-GBN] Fora de ordem DATA seq=66. Esperado=60. Reenviando ACK=59
+[RUDP-GBN] Fora de ordem DATA seq=67. Esperado=60. Reenviando ACK=59
+[RUDP-GBN] Recebido em ordem DATA seq=60. ACK=60
+[RUDP-GBN] Recebido em ordem DATA seq=61. ACK=61
+[RUDP-GBN] Recebido em ordem DATA seq=62. ACK=62
+[RUDP-GBN] Recebido em ordem DATA seq=63. ACK=63
+[RUDP-GBN] Recebido em ordem DATA seq=64. ACK=64
+[RUDP-GBN] Recebido em ordem DATA seq=65. ACK=65
+[RUDP-GBN] Recebido em ordem DATA seq=66. ACK=66
+[RUDP-GBN] Recebido em ordem DATA seq=67. ACK=67
+[RUDP-GBN] Recebido em ordem DATA seq=68. ACK=68
+[RUDP-GBN] Recebido em ordem DATA seq=69. ACK=69
+[RUDP-GBN] Recebido em ordem DATA seq=70. ACK=70
+[RUDP-GBN] Recebido em ordem DATA seq=71. ACK=71
+[RUDP-GBN] Recebido em ordem DATA seq=72. ACK=72
+[RUDP-GBN] Recebido em ordem DATA seq=73. ACK=73
+[RUDP-GBN] Recebido em ordem DATA seq=74. ACK=74
+[RUDP-GBN] Recebido em ordem DATA seq=75. ACK=75
+[RUDP-GBN] Recebido em ordem DATA seq=76. ACK=76
+[RUDP-GBN] Recebido em ordem DATA seq=77. ACK=77
+[RUDP-GBN] Recebido em ordem DATA seq=78. ACK=78
+[RUDP-GBN] Recebido em ordem DATA seq=79. ACK=79
+[RUDP-GBN] Recebido em ordem DATA seq=80. ACK=80
+[RUDP-GBN] Recebido em ordem DATA seq=81. ACK=81
+[RUDP-GBN] Recebido em ordem DATA seq=82. ACK=82
+[RUDP-GBN] Recebido em ordem DATA seq=83. ACK=83
+[RUDP-GBN] Recebido em ordem DATA seq=84. ACK=84
+[RUDP-GBN] Recebido em ordem DATA seq=85. ACK=85
+[RUDP-GBN] Recebido em ordem DATA seq=86. ACK=86
+[RUDP-GBN] Recebido em ordem DATA seq=87. ACK=87
+[RUDP-GBN] Recebido em ordem DATA seq=88. ACK=88
+[RUDP-GBN] Recebido em ordem DATA seq=89. ACK=89
+[RUDP-GBN] Recebido em ordem DATA seq=90. ACK=90
+[RUDP-GBN] Recebido em ordem DATA seq=91. ACK=91
+[RUDP-GBN] Recebido em ordem DATA seq=92. ACK=92
+[RUDP-GBN] Recebido em ordem DATA seq=93. ACK=93
+[RUDP-GBN] Recebido em ordem DATA seq=94. ACK=94
+[RUDP-GBN] Recebido em ordem DATA seq=95. ACK=95
+[RUDP-GBN] Fora de ordem DATA seq=97. Esperado=96. Reenviando ACK=95
+[RUDP-GBN] Fora de ordem DATA seq=99. Esperado=96. Reenviando ACK=95
+[RUDP-GBN] Fora de ordem DATA seq=100. Esperado=96. Reenviando ACK=95
+[RUDP-GBN] Fora de ordem DATA seq=101. Esperado=96. Reenviando ACK=95
+[RUDP-GBN] Fora de ordem DATA seq=102. Esperado=96. Reenviando ACK=95
+[RUDP-GBN] Fora de ordem DATA seq=103. Esperado=96. Reenviando ACK=95
+[RUDP-GBN] Fora de ordem DATA seq=97. Esperado=96. Reenviando ACK=95
+[RUDP-GBN] Fora de ordem DATA seq=98. Esperado=96. Reenviando ACK=95
+[RUDP-GBN] Fora de ordem DATA seq=99. Esperado=96. Reenviando ACK=95
+[RUDP-GBN] Fora de ordem DATA seq=100. Esperado=96. Reenviando ACK=95
+[RUDP-GBN] Fora de ordem DATA seq=101. Esperado=96. Reenviando ACK=95
+[RUDP-GBN] Fora de ordem DATA seq=103. Esperado=96. Reenviando ACK=95
+[RUDP-GBN] Recebido em ordem DATA seq=96. ACK=96
+[RUDP-GBN] Recebido em ordem DATA seq=97. ACK=97
+[RUDP-GBN] Recebido em ordem DATA seq=98. ACK=98
+[RUDP-GBN] Recebido em ordem DATA seq=99. ACK=99
+[RUDP-GBN] Recebido em ordem DATA seq=100. ACK=100
+[RUDP-GBN] Recebido em ordem DATA seq=101. ACK=101
+[RUDP-GBN] Recebido em ordem DATA seq=102. ACK=102
+[RUDP-GBN] Recebido em ordem DATA seq=103. ACK=103
+[RUDP-GBN] Recebido em ordem DATA seq=104. ACK=104
+[RUDP-GBN] Recebido em ordem DATA seq=105. ACK=105
+[RUDP-GBN] Recebido em ordem DATA seq=106. ACK=106
+[RUDP-GBN] Recebido em ordem DATA seq=107. ACK=107
+[RUDP-GBN] Recebido em ordem DATA seq=108. ACK=108
+[RUDP-GBN] Recebido em ordem DATA seq=109. ACK=109
+[RUDP-GBN] Fora de ordem DATA seq=111. Esperado=110. Reenviando ACK=109
+[RUDP-GBN] Fora de ordem DATA seq=112. Esperado=110. Reenviando ACK=109
+[RUDP-GBN] Fora de ordem DATA seq=113. Esperado=110. Reenviando ACK=109
+[RUDP-GBN] Fora de ordem DATA seq=114. Esperado=110. Reenviando ACK=109
+[RUDP-GBN] Fora de ordem DATA seq=115. Esperado=110. Reenviando ACK=109
+[RUDP-GBN] Fora de ordem DATA seq=116. Esperado=110. Reenviando ACK=109
+[RUDP-GBN] Fora de ordem DATA seq=117. Esperado=110. Reenviando ACK=109
+[RUDP-GBN] Recebido em ordem DATA seq=110. ACK=110
+[RUDP-GBN] Recebido em ordem DATA seq=111. ACK=111
+[RUDP-GBN] Recebido em ordem DATA seq=112. ACK=112
+[RUDP-GBN] Recebido em ordem DATA seq=113. ACK=113
+[RUDP-GBN] Recebido em ordem DATA seq=114. ACK=114
+[RUDP-GBN] Recebido em ordem DATA seq=115. ACK=115
+[RUDP-GBN] Recebido em ordem DATA seq=116. ACK=116
+[RUDP-GBN] Fora de ordem DATA seq=118. Esperado=117. Reenviando ACK=116
+[RUDP-GBN] Fora de ordem DATA seq=120. Esperado=117. Reenviando ACK=116
+[RUDP-GBN] Fora de ordem DATA seq=121. Esperado=117. Reenviando ACK=116
+[RUDP-GBN] Fora de ordem DATA seq=122. Esperado=117. Reenviando ACK=116
+[RUDP-GBN] Fora de ordem DATA seq=123. Esperado=117. Reenviando ACK=116
+[RUDP-GBN] Fora de ordem DATA seq=124. Esperado=117. Reenviando ACK=116
+[RUDP-GBN] Recebido em ordem DATA seq=117. ACK=117
+[RUDP-GBN] Recebido em ordem DATA seq=118. ACK=118
+[RUDP-GBN] Recebido em ordem DATA seq=119. ACK=119
+[RUDP-GBN] Recebido em ordem DATA seq=120. ACK=120
+[RUDP-GBN] Fora de ordem DATA seq=122. Esperado=121. Reenviando ACK=120
+[RUDP-GBN] Fora de ordem DATA seq=123. Esperado=121. Reenviando ACK=120
+[RUDP-GBN] Fora de ordem DATA seq=124. Esperado=121. Reenviando ACK=120
+[RUDP-GBN] Fora de ordem DATA seq=125. Esperado=121. Reenviando ACK=120
+[RUDP-GBN] Fora de ordem DATA seq=126. Esperado=121. Reenviando ACK=120
+[RUDP-GBN] Fora de ordem DATA seq=127. Esperado=121. Reenviando ACK=120
+[RUDP-GBN] Fora de ordem DATA seq=128. Esperado=121. Reenviando ACK=120
+[RUDP-GBN] Recebido em ordem DATA seq=121. ACK=121
+[RUDP-GBN] Recebido em ordem DATA seq=122. ACK=122
+[RUDP-GBN] Recebido em ordem DATA seq=123. ACK=123
+[RUDP-GBN] Recebido em ordem DATA seq=124. ACK=124
+[RUDP-GBN] Recebido em ordem DATA seq=125. ACK=125
+[RUDP-GBN] Fora de ordem DATA seq=127. Esperado=126. Reenviando ACK=125
+[RUDP-GBN] Fora de ordem DATA seq=128. Esperado=126. Reenviando ACK=125
+[RUDP-GBN] Fora de ordem DATA seq=129. Esperado=126. Reenviando ACK=125
+[RUDP-GBN] Fora de ordem DATA seq=131. Esperado=126. Reenviando ACK=125
+[RUDP-GBN] Fora de ordem DATA seq=133. Esperado=126. Reenviando ACK=125
+[RUDP-GBN] Recebido em ordem DATA seq=126. ACK=126
+[RUDP-GBN] Recebido em ordem DATA seq=127. ACK=127
+[RUDP-GBN] Recebido em ordem DATA seq=128. ACK=128
+[RUDP-GBN] Recebido em ordem DATA seq=129. ACK=129
+[RUDP-GBN] Recebido em ordem DATA seq=130. ACK=130
+[RUDP-GBN] Recebido em ordem DATA seq=131. ACK=131
+[RUDP-GBN] Recebido em ordem DATA seq=132. ACK=132
+[RUDP-GBN] Fora de ordem DATA seq=134. Esperado=133. Reenviando ACK=132
+[RUDP-GBN] Fora de ordem DATA seq=135. Esperado=133. Reenviando ACK=132
+[RUDP-GBN] Fora de ordem DATA seq=136. Esperado=133. Reenviando ACK=132
+[RUDP-GBN] Fora de ordem DATA seq=137. Esperado=133. Reenviando ACK=132
+[RUDP-GBN] Fora de ordem DATA seq=138. Esperado=133. Reenviando ACK=132
+[RUDP-GBN] Fora de ordem DATA seq=139. Esperado=133. Reenviando ACK=132
+[RUDP-GBN] Fora de ordem DATA seq=140. Esperado=133. Reenviando ACK=132
+[RUDP-GBN] Recebido em ordem DATA seq=133. ACK=133
+[RUDP-GBN] Recebido em ordem DATA seq=134. ACK=134
+[RUDP-GBN] Fora de ordem DATA seq=136. Esperado=135. Reenviando ACK=134
+[RUDP-GBN] Fora de ordem DATA seq=137. Esperado=135. Reenviando ACK=134
+[RUDP-GBN] Fora de ordem DATA seq=138. Esperado=135. Reenviando ACK=134
+[RUDP-GBN] Fora de ordem DATA seq=140. Esperado=135. Reenviando ACK=134
+[RUDP-GBN] Fora de ordem DATA seq=141. Esperado=135. Reenviando ACK=134
+[RUDP-GBN] Fora de ordem DATA seq=142. Esperado=135. Reenviando ACK=134
+[RUDP-GBN] Recebido em ordem DATA seq=135. ACK=135
+[RUDP-GBN] Recebido em ordem DATA seq=136. ACK=136
+[RUDP-GBN] Recebido em ordem DATA seq=137. ACK=137
+[RUDP-GBN] Recebido em ordem DATA seq=138. ACK=138
+[RUDP-GBN] Recebido em ordem DATA seq=139. ACK=139
+[RUDP-GBN] Recebido em ordem DATA seq=140. ACK=140
+[RUDP-GBN] Recebido em ordem DATA seq=141. ACK=141
+[RUDP-GBN] Recebido em ordem DATA seq=142. ACK=142
+[RUDP-GBN] Recebido em ordem DATA seq=143. ACK=143
+[RUDP-GBN] Recebido em ordem DATA seq=144. ACK=144
+[RUDP-GBN] Recebido em ordem DATA seq=145. ACK=145
+[RUDP-GBN] Recebido em ordem DATA seq=146. ACK=146
+[RUDP-GBN] Recebido em ordem DATA seq=147. ACK=147
+[RUDP-GBN] Recebido em ordem DATA seq=148. ACK=148
+[RUDP-GBN] Recebido em ordem DATA seq=149. ACK=149
+[RUDP-GBN] Recebido em ordem DATA seq=150. ACK=150
+[RUDP-GBN] Recebido em ordem DATA seq=151. ACK=151
+[RUDP-GBN] Recebido em ordem DATA seq=152. ACK=152
+[RUDP-GBN] Recebido em ordem DATA seq=153. ACK=153
+[RUDP-GBN] Recebido em ordem DATA seq=154. ACK=154
+[RUDP-GBN] Recebido em ordem DATA seq=155. ACK=155
+[RUDP-GBN] Recebido em ordem DATA seq=156. ACK=156
+[RUDP-GBN] Recebido em ordem DATA seq=157. ACK=157
+[RUDP-GBN] Recebido em ordem DATA seq=158. ACK=158
+[RUDP-GBN] Recebido em ordem DATA seq=159. ACK=159
+[RUDP-GBN] Recebido em ordem DATA seq=160. ACK=160
+[RUDP-GBN] Recebido em ordem DATA seq=161. ACK=161
+[RUDP-GBN] Recebido em ordem DATA seq=162. ACK=162
+[RUDP-GBN] Recebido em ordem DATA seq=163. ACK=163
+[RUDP-GBN] Recebido em ordem DATA seq=164. ACK=164
+[RUDP-GBN] Recebido em ordem DATA seq=165. ACK=165
+[RUDP-GBN] Recebido em ordem DATA seq=166. ACK=166
+[RUDP-GBN] Recebido em ordem DATA seq=167. ACK=167
+[RUDP-GBN] Recebido em ordem DATA seq=168. ACK=168
+[RUDP-GBN] Recebido em ordem DATA seq=169. ACK=169
+[RUDP-GBN] Recebido em ordem DATA seq=170. ACK=170
+[RUDP-GBN] Recebido em ordem DATA seq=171. ACK=171
+[RUDP-GBN] Recebido em ordem DATA seq=172. ACK=172
+[RUDP-GBN] Recebido em ordem DATA seq=173. ACK=173
+[RUDP-GBN] Recebido em ordem DATA seq=174. ACK=174
+[RUDP-GBN] Recebido em ordem DATA seq=175. ACK=175
+[RUDP-GBN] Recebido em ordem DATA seq=176. ACK=176
+[RUDP-GBN] Recebido em ordem DATA seq=177. ACK=177
+[RUDP-GBN] Recebido em ordem DATA seq=178. ACK=178
+[RUDP-GBN] Recebido em ordem DATA seq=179. ACK=179
+[RUDP-GBN] Recebido em ordem DATA seq=180. ACK=180
+[RUDP-GBN] Recebido em ordem DATA seq=181. ACK=181
+[RUDP-GBN] Fora de ordem DATA seq=183. Esperado=182. Reenviando ACK=181
+[RUDP-GBN] Fora de ordem DATA seq=185. Esperado=182. Reenviando ACK=181
+[RUDP-GBN] Fora de ordem DATA seq=186. Esperado=182. Reenviando ACK=181
+[RUDP-GBN] Fora de ordem DATA seq=188. Esperado=182. Reenviando ACK=181
+[RUDP-GBN] Fora de ordem DATA seq=189. Esperado=182. Reenviando ACK=181
+[RUDP-GBN] Recebido em ordem DATA seq=182. ACK=182
+[RUDP-GBN] Recebido em ordem DATA seq=183. ACK=183
+[RUDP-GBN] Fora de ordem DATA seq=185. Esperado=184. Reenviando ACK=183
+[RUDP-GBN] Fora de ordem DATA seq=186. Esperado=184. Reenviando ACK=183
+[RUDP-GBN] Fora de ordem DATA seq=187. Esperado=184. Reenviando ACK=183
+[RUDP-GBN] Fora de ordem DATA seq=188. Esperado=184. Reenviando ACK=183
+[RUDP-GBN] Fora de ordem DATA seq=189. Esperado=184. Reenviando ACK=183
+[RUDP-GBN] Fora de ordem DATA seq=190. Esperado=184. Reenviando ACK=183
+[RUDP-GBN] Fora de ordem DATA seq=191. Esperado=184. Reenviando ACK=183
+[RUDP-GBN] Fora de ordem DATA seq=185. Esperado=184. Reenviando ACK=183
+[RUDP-GBN] Fora de ordem DATA seq=186. Esperado=184. Reenviando ACK=183
+[RUDP-GBN] Fora de ordem DATA seq=187. Esperado=184. Reenviando ACK=183
+[RUDP-GBN] Fora de ordem DATA seq=188. Esperado=184. Reenviando ACK=183
+[RUDP-GBN] Fora de ordem DATA seq=189. Esperado=184. Reenviando ACK=183
+[RUDP-GBN] Fora de ordem DATA seq=190. Esperado=184. Reenviando ACK=183
+[RUDP-GBN] Fora de ordem DATA seq=191. Esperado=184. Reenviando ACK=183
+[RUDP-GBN] Recebido em ordem DATA seq=184. ACK=184
+[RUDP-GBN] Recebido em ordem DATA seq=185. ACK=185
+[RUDP-GBN] Recebido em ordem DATA seq=186. ACK=186
+[RUDP-GBN] Fora de ordem DATA seq=188. Esperado=187. Reenviando ACK=186
+[RUDP-GBN] Fora de ordem DATA seq=189. Esperado=187. Reenviando ACK=186
+[RUDP-GBN] Fora de ordem DATA seq=190. Esperado=187. Reenviando ACK=186
+[RUDP-GBN] Fora de ordem DATA seq=191. Esperado=187. Reenviando ACK=186
+[RUDP-GBN] Fora de ordem DATA seq=192. Esperado=187. Reenviando ACK=186
+[RUDP-GBN] Fora de ordem DATA seq=193. Esperado=187. Reenviando ACK=186
+[RUDP-GBN] Fora de ordem DATA seq=194. Esperado=187. Reenviando ACK=186
+[RUDP-GBN] Recebido em ordem DATA seq=187. ACK=187
+[RUDP-GBN] Recebido em ordem DATA seq=188. ACK=188
+[RUDP-GBN] Recebido em ordem DATA seq=189. ACK=189
+[RUDP-GBN] Recebido em ordem DATA seq=190. ACK=190
+[RUDP-GBN] Recebido em ordem DATA seq=191. ACK=191
+[RUDP-GBN] Recebido em ordem DATA seq=192. ACK=192
+[RUDP-GBN] Recebido em ordem DATA seq=193. ACK=193
+[RUDP-GBN] Fora de ordem DATA seq=195. Esperado=194. Reenviando ACK=193
+[RUDP-GBN] Fora de ordem DATA seq=196. Esperado=194. Reenviando ACK=193
+[RUDP-GBN] Fora de ordem DATA seq=197. Esperado=194. Reenviando ACK=193
+[RUDP-GBN] Fora de ordem DATA seq=198. Esperado=194. Reenviando ACK=193
+[RUDP-GBN] Fora de ordem DATA seq=199. Esperado=194. Reenviando ACK=193
+[RUDP-GBN] Fora de ordem DATA seq=200. Esperado=194. Reenviando ACK=193
+[RUDP-GBN] Fora de ordem DATA seq=201. Esperado=194. Reenviando ACK=193
+[RUDP-GBN] Recebido em ordem DATA seq=194. ACK=194
+[RUDP-GBN] Recebido em ordem DATA seq=195. ACK=195
+[RUDP-GBN] Recebido em ordem DATA seq=196. ACK=196
+[RUDP-GBN] Fora de ordem DATA seq=198. Esperado=197. Reenviando ACK=196
+[RUDP-GBN] Fora de ordem DATA seq=199. Esperado=197. Reenviando ACK=196
+[RUDP-GBN] Fora de ordem DATA seq=201. Esperado=197. Reenviando ACK=196
+[RUDP-GBN] Fora de ordem DATA seq=202. Esperado=197. Reenviando ACK=196
+[RUDP-GBN] Fora de ordem DATA seq=203. Esperado=197. Reenviando ACK=196
+[RUDP-GBN] Fora de ordem DATA seq=204. Esperado=197. Reenviando ACK=196
+[RUDP-GBN] Recebido em ordem DATA seq=197. ACK=197
+[RUDP-GBN] Recebido em ordem DATA seq=198. ACK=198
+[RUDP-GBN] Recebido em ordem DATA seq=199. ACK=199
+[RUDP-GBN] Recebido em ordem DATA seq=200. ACK=200
+[RUDP-GBN] Recebido em ordem DATA seq=201. ACK=201
+[RUDP-GBN] Fora de ordem DATA seq=203. Esperado=202. Reenviando ACK=201
+[RUDP-GBN] Fora de ordem DATA seq=204. Esperado=202. Reenviando ACK=201
+[RUDP-GBN] Fora de ordem DATA seq=205. Esperado=202. Reenviando ACK=201
+[RUDP-GBN] Fora de ordem DATA seq=206. Esperado=202. Reenviando ACK=201
+[RUDP-GBN] Fora de ordem DATA seq=207. Esperado=202. Reenviando ACK=201
+[RUDP-GBN] Fora de ordem DATA seq=208. Esperado=202. Reenviando ACK=201
+[RUDP-GBN] Fora de ordem DATA seq=209. Esperado=202. Reenviando ACK=201
+[RUDP-GBN] Recebido em ordem DATA seq=202. ACK=202
+[RUDP-GBN] Recebido em ordem DATA seq=203. ACK=203
+[RUDP-GBN] Recebido em ordem DATA seq=204. ACK=204
+[RUDP-GBN] Recebido em ordem DATA seq=205. ACK=205
+[RUDP-GBN] Recebido em ordem DATA seq=206. ACK=206
+[RUDP-GBN] Recebido em ordem DATA seq=207. ACK=207
+[RUDP-GBN] Recebido em ordem DATA seq=208. ACK=208
+[RUDP-GBN] Recebido em ordem DATA seq=209. ACK=209
+[RUDP-GBN] Recebido em ordem DATA seq=210. ACK=210
+[RUDP-GBN] Recebido em ordem DATA seq=211. ACK=211
+[RUDP-GBN] Recebido em ordem DATA seq=212. ACK=212
+[RUDP-GBN] Recebido em ordem DATA seq=213. ACK=213
+[RUDP-GBN] Recebido em ordem DATA seq=214. ACK=214
+[RUDP-GBN] Recebido em ordem DATA seq=215. ACK=215
+[RUDP-GBN] Recebido em ordem DATA seq=216. ACK=216
+[RUDP-GBN] Recebido em ordem DATA seq=217. ACK=217
+[RUDP-GBN] Recebido em ordem DATA seq=218. ACK=218
+[RUDP-GBN] Recebido em ordem DATA seq=219. ACK=219
+[RUDP-GBN] Recebido em ordem DATA seq=220. ACK=220
+[RUDP-GBN] Recebido em ordem DATA seq=221. ACK=221
+[RUDP-GBN] Fora de ordem DATA seq=223. Esperado=222. Reenviando ACK=221
+[RUDP-GBN] Fora de ordem DATA seq=225. Esperado=222. Reenviando ACK=221
+[RUDP-GBN] Fora de ordem DATA seq=228. Esperado=222. Reenviando ACK=221
+[RUDP-GBN] Fora de ordem DATA seq=229. Esperado=222. Reenviando ACK=221
+[RUDP-GBN] Recebido em ordem DATA seq=222. ACK=222
+[RUDP-GBN] Recebido em ordem DATA seq=223. ACK=223
+[RUDP-GBN] Recebido em ordem DATA seq=224. ACK=224
+[RUDP-GBN] Recebido em ordem DATA seq=225. ACK=225
+[RUDP-GBN] Recebido em ordem DATA seq=226. ACK=226
+[RUDP-GBN] Recebido em ordem DATA seq=227. ACK=227
+[RUDP-GBN] Recebido em ordem DATA seq=228. ACK=228
+[RUDP-GBN] Recebido em ordem DATA seq=229. ACK=229
+[RUDP-GBN] Recebido em ordem DATA seq=230. ACK=230
+[RUDP-GBN] Recebido em ordem DATA seq=231. ACK=231
+[RUDP-GBN] Recebido em ordem DATA seq=232. ACK=232
+[RUDP-GBN] Recebido em ordem DATA seq=233. ACK=233
+[RUDP-GBN] Recebido em ordem DATA seq=234. ACK=234
+[RUDP-GBN] Recebido em ordem DATA seq=235. ACK=235
+[RUDP-GBN] Fora de ordem DATA seq=237. Esperado=236. Reenviando ACK=235
+[RUDP-GBN] Fora de ordem DATA seq=238. Esperado=236. Reenviando ACK=235
+[RUDP-GBN] Fora de ordem DATA seq=239. Esperado=236. Reenviando ACK=235
+[RUDP-GBN] Fora de ordem DATA seq=240. Esperado=236. Reenviando ACK=235
+[RUDP-GBN] Fora de ordem DATA seq=241. Esperado=236. Reenviando ACK=235
+[RUDP-GBN] Fora de ordem DATA seq=242. Esperado=236. Reenviando ACK=235
+[RUDP-GBN] Fora de ordem DATA seq=243. Esperado=236. Reenviando ACK=235
+[RUDP-GBN] Recebido em ordem DATA seq=236. ACK=236
+[RUDP-GBN] Fora de ordem DATA seq=238. Esperado=237. Reenviando ACK=236
+[RUDP-GBN] Fora de ordem DATA seq=239. Esperado=237. Reenviando ACK=236
+[RUDP-GBN] Fora de ordem DATA seq=240. Esperado=237. Reenviando ACK=236
+[RUDP-GBN] Fora de ordem DATA seq=242. Esperado=237. Reenviando ACK=236
+[RUDP-GBN] Fora de ordem DATA seq=243. Esperado=237. Reenviando ACK=236
+[RUDP-GBN] Fora de ordem DATA seq=238. Esperado=237. Reenviando ACK=236
+[RUDP-GBN] Fora de ordem DATA seq=239. Esperado=237. Reenviando ACK=236
+[RUDP-GBN] Fora de ordem DATA seq=240. Esperado=237. Reenviando ACK=236
+[RUDP-GBN] Fora de ordem DATA seq=241. Esperado=237. Reenviando ACK=236
+[RUDP-GBN] Fora de ordem DATA seq=242. Esperado=237. Reenviando ACK=236
+[RUDP-GBN] Fora de ordem DATA seq=243. Esperado=237. Reenviando ACK=236
+[RUDP-GBN] Fora de ordem DATA seq=244. Esperado=237. Reenviando ACK=236
+[RUDP-GBN] Recebido em ordem DATA seq=237. ACK=237
+[RUDP-GBN] Recebido em ordem DATA seq=238. ACK=238
+[RUDP-GBN] Recebido em ordem DATA seq=239. ACK=239
+[RUDP-GBN] Recebido em ordem DATA seq=240. ACK=240
+[RUDP-GBN] Recebido em ordem DATA seq=241. ACK=241
+[RUDP-GBN] Recebido em ordem DATA seq=242. ACK=242
+[RUDP-GBN] Recebido em ordem DATA seq=243. ACK=243
+[RUDP-GBN] Recebido em ordem DATA seq=244. ACK=244
+[RUDP-GBN] Recebido em ordem DATA seq=245. ACK=245
+[RUDP-GBN] Recebido em ordem DATA seq=246. ACK=246
+[RUDP-GBN] Recebido em ordem DATA seq=247. ACK=247
+[RUDP-GBN] Recebido em ordem DATA seq=248. ACK=248
+[RUDP-GBN] Recebido em ordem DATA seq=249. ACK=249
+[RUDP-GBN] Recebido em ordem DATA seq=250. ACK=250
+[RUDP-GBN] Recebido em ordem DATA seq=251. ACK=251
+[RUDP-GBN] Recebido em ordem DATA seq=252. ACK=252
+[RUDP-GBN] Recebido em ordem DATA seq=253. ACK=253
+[RUDP-GBN] Recebido em ordem DATA seq=254. ACK=254
+[RUDP-GBN] Recebido em ordem DATA seq=255. ACK=255
+[RUDP-GBN] Recebido em ordem DATA seq=256. ACK=256
+[RUDP-GBN] Recebido em ordem DATA seq=257. ACK=257
+[RUDP-GBN] Recebido em ordem DATA seq=258. ACK=258
+[RUDP-GBN] Recebido em ordem DATA seq=259. ACK=259
+[RUDP-GBN] Recebido em ordem DATA seq=260. ACK=260
+[RUDP-GBN] Recebido em ordem DATA seq=261. ACK=261
+[RUDP-GBN] Fora de ordem DATA seq=263. Esperado=262. Reenviando ACK=261
+[RUDP-GBN] Fora de ordem DATA seq=264. Esperado=262. Reenviando ACK=261
+[RUDP-GBN] Fora de ordem DATA seq=265. Esperado=262. Reenviando ACK=261
+[RUDP-GBN] Fora de ordem DATA seq=266. Esperado=262. Reenviando ACK=261
+[RUDP-GBN] Fora de ordem DATA seq=268. Esperado=262. Reenviando ACK=261
+[RUDP-GBN] Fora de ordem DATA seq=269. Esperado=262. Reenviando ACK=261
+[RUDP-GBN] Fora de ordem DATA seq=263. Esperado=262. Reenviando ACK=261
+[RUDP-GBN] Fora de ordem DATA seq=264. Esperado=262. Reenviando ACK=261
+[RUDP-GBN] Fora de ordem DATA seq=265. Esperado=262. Reenviando ACK=261
+[RUDP-GBN] Fora de ordem DATA seq=266. Esperado=262. Reenviando ACK=261
+[RUDP-GBN] Fora de ordem DATA seq=267. Esperado=262. Reenviando ACK=261
+[RUDP-GBN] Fora de ordem DATA seq=268. Esperado=262. Reenviando ACK=261
+[RUDP-GBN] Fora de ordem DATA seq=269. Esperado=262. Reenviando ACK=261
+[RUDP-GBN] Recebido em ordem DATA seq=262. ACK=262
+[RUDP-GBN] Recebido em ordem DATA seq=263. ACK=263
+[RUDP-GBN] Recebido em ordem DATA seq=264. ACK=264
+[RUDP-GBN] Recebido em ordem DATA seq=265. ACK=265
+[RUDP-GBN] Recebido em ordem DATA seq=266. ACK=266
+[RUDP-GBN] Recebido em ordem DATA seq=267. ACK=267
+[RUDP-GBN] Recebido em ordem DATA seq=268. ACK=268
+[RUDP-GBN] Recebido em ordem DATA seq=269. ACK=269
+[RUDP-GBN] Recebido em ordem DATA seq=270. ACK=270
+[RUDP-GBN] Recebido em ordem DATA seq=271. ACK=271
+[RUDP-GBN] Recebido em ordem DATA seq=272. ACK=272
+[RUDP-GBN] Recebido em ordem DATA seq=273. ACK=273
+[RUDP-GBN] Recebido em ordem DATA seq=274. ACK=274
+[RUDP-GBN] Recebido em ordem DATA seq=275. ACK=275
+[RUDP-GBN] Recebido em ordem DATA seq=276. ACK=276
+[RUDP-GBN] Recebido em ordem DATA seq=277. ACK=277
+[RUDP-GBN] Recebido em ordem DATA seq=278. ACK=278
+[RUDP-GBN] Recebido em ordem DATA seq=279. ACK=279
+[RUDP-GBN] Recebido em ordem DATA seq=280. ACK=280
+[RUDP-GBN] Recebido em ordem DATA seq=281. ACK=281
+[RUDP-GBN] Recebido em ordem DATA seq=282. ACK=282
+[RUDP-GBN] Recebido em ordem DATA seq=283. ACK=283
+[RUDP-GBN] Recebido em ordem DATA seq=284. ACK=284
+[RUDP-GBN] Recebido em ordem DATA seq=285. ACK=285
+[RUDP-GBN] Recebido em ordem DATA seq=286. ACK=286
+[RUDP-GBN] Recebido em ordem DATA seq=287. ACK=287
+[RUDP-GBN] Recebido em ordem DATA seq=288. ACK=288
+[RUDP-GBN] Recebido em ordem DATA seq=289. ACK=289
+[RUDP-GBN] Recebido em ordem DATA seq=290. ACK=290
+[RUDP-GBN] Recebido em ordem DATA seq=291. ACK=291
+[RUDP-GBN] Recebido em ordem DATA seq=292. ACK=292
+[RUDP-GBN] Recebido em ordem DATA seq=293. ACK=293
+[RUDP-GBN] Recebido em ordem DATA seq=294. ACK=294
+[RUDP-GBN] Recebido em ordem DATA seq=295. ACK=295
+[RUDP-GBN] Recebido em ordem DATA seq=296. ACK=296
+[RUDP-GBN] Recebido em ordem DATA seq=297. ACK=297
+[RUDP-GBN] Recebido em ordem DATA seq=298. ACK=298
+[RUDP-GBN] Recebido em ordem DATA seq=299. ACK=299
+[RUDP-GBN] Recebido em ordem DATA seq=300. ACK=300
+[RUDP-GBN] Recebido em ordem DATA seq=301. ACK=301
+[RUDP-GBN] Recebido em ordem DATA seq=302. ACK=302
+[RUDP-GBN] Recebido em ordem DATA seq=303. ACK=303
+[RUDP-GBN] Recebido em ordem DATA seq=304. ACK=304
+[RUDP-GBN] Recebido em ordem DATA seq=305. ACK=305
+[RUDP-GBN] Recebido em ordem DATA seq=306. ACK=306
+[RUDP-GBN] Recebido em ordem DATA seq=307. ACK=307
+[RUDP-GBN] Recebido em ordem DATA seq=308. ACK=308
+[RUDP-GBN] Recebido em ordem DATA seq=309. ACK=309
+[RUDP-GBN] Recebido em ordem DATA seq=310. ACK=310
+[RUDP-GBN] Recebido em ordem DATA seq=311. ACK=311
+[RUDP-GBN] Recebido em ordem DATA seq=312. ACK=312
+[RUDP-GBN] Recebido em ordem DATA seq=313. ACK=313
+[RUDP-GBN] Recebido em ordem DATA seq=314. ACK=314
+[RUDP-GBN] Recebido em ordem DATA seq=315. ACK=315
+[RUDP-GBN] Recebido em ordem DATA seq=316. ACK=316
+[RUDP-GBN] Recebido em ordem DATA seq=317. ACK=317
+[RUDP-GBN] Recebido em ordem DATA seq=318. ACK=318
+[RUDP-GBN] Recebido em ordem DATA seq=319. ACK=319
+[RUDP-GBN] Recebido em ordem DATA seq=320. ACK=320
+[RUDP-GBN] Recebido em ordem DATA seq=321. ACK=321
+[RUDP-GBN] Recebido em ordem DATA seq=322. ACK=322
+[RUDP-GBN] Fora de ordem DATA seq=325. Esperado=323. Reenviando ACK=322
+[RUDP-GBN] Fora de ordem DATA seq=326. Esperado=323. Reenviando ACK=322
+[RUDP-GBN] Fora de ordem DATA seq=327. Esperado=323. Reenviando ACK=322
+[RUDP-GBN] Fora de ordem DATA seq=328. Esperado=323. Reenviando ACK=322
+[RUDP-GBN] Fora de ordem DATA seq=329. Esperado=323. Reenviando ACK=322
+[RUDP-GBN] Fora de ordem DATA seq=330. Esperado=323. Reenviando ACK=322
+[RUDP-GBN] Recebido em ordem DATA seq=323. ACK=323
+[RUDP-GBN] Fora de ordem DATA seq=325. Esperado=324. Reenviando ACK=323
+[RUDP-GBN] Fora de ordem DATA seq=326. Esperado=324. Reenviando ACK=323
+[RUDP-GBN] Fora de ordem DATA seq=327. Esperado=324. Reenviando ACK=323
+[RUDP-GBN] Fora de ordem DATA seq=328. Esperado=324. Reenviando ACK=323
+[RUDP-GBN] Fora de ordem DATA seq=329. Esperado=324. Reenviando ACK=323
+[RUDP-GBN] Fora de ordem DATA seq=330. Esperado=324. Reenviando ACK=323
+[RUDP-GBN] Fora de ordem DATA seq=331. Esperado=324. Reenviando ACK=323
+[RUDP-GBN] Recebido em ordem DATA seq=324. ACK=324
+[RUDP-GBN] Recebido em ordem DATA seq=325. ACK=325
+[RUDP-GBN] Recebido em ordem DATA seq=326. ACK=326
+[RUDP-GBN] Recebido em ordem DATA seq=327. ACK=327
+[RUDP-GBN] Recebido em ordem DATA seq=328. ACK=328
+[RUDP-GBN] Recebido em ordem DATA seq=329. ACK=329
+[RUDP-GBN] Recebido em ordem DATA seq=330. ACK=330
+[RUDP-GBN] Recebido em ordem DATA seq=331. ACK=331
+[RUDP-GBN] Recebido em ordem DATA seq=332. ACK=332
+[RUDP-GBN] Recebido em ordem DATA seq=333. ACK=333
+[RUDP-GBN] Recebido em ordem DATA seq=334. ACK=334
+[RUDP-GBN] Recebido em ordem DATA seq=335. ACK=335
+[RUDP-GBN] Recebido em ordem DATA seq=336. ACK=336
+[RUDP-GBN] Recebido em ordem DATA seq=337. ACK=337
+[RUDP-GBN] Recebido em ordem DATA seq=338. ACK=338
+[RUDP-GBN] Recebido em ordem DATA seq=339. ACK=339
+[RUDP-GBN] Recebido em ordem DATA seq=340. ACK=340
+[RUDP-GBN] Recebido em ordem DATA seq=341. ACK=341
+[RUDP-GBN] Recebido em ordem DATA seq=342. ACK=342
+[RUDP-GBN] Recebido em ordem DATA seq=343. ACK=343
+[RUDP-GBN] Recebido em ordem DATA seq=344. ACK=344
+[RUDP-GBN] Recebido em ordem DATA seq=345. ACK=345
+[RUDP-GBN] Recebido em ordem DATA seq=346. ACK=346
+[RUDP-GBN] Recebido em ordem DATA seq=347. ACK=347
+[RUDP-GBN] Recebido em ordem DATA seq=348. ACK=348
+[RUDP-GBN] Recebido em ordem DATA seq=349. ACK=349
+[RUDP-GBN] Recebido em ordem DATA seq=350. ACK=350
+[RUDP-GBN] Recebido em ordem DATA seq=351. ACK=351
+[RUDP-GBN] Fora de ordem DATA seq=354. Esperado=352. Reenviando ACK=351
+[RUDP-GBN] Fora de ordem DATA seq=355. Esperado=352. Reenviando ACK=351
+[RUDP-GBN] Fora de ordem DATA seq=356. Esperado=352. Reenviando ACK=351
+[RUDP-GBN] Fora de ordem DATA seq=357. Esperado=352. Reenviando ACK=351
+[RUDP-GBN] Fora de ordem DATA seq=358. Esperado=352. Reenviando ACK=351
+[RUDP-GBN] Fora de ordem DATA seq=359. Esperado=352. Reenviando ACK=351
+[RUDP-GBN] Recebido em ordem DATA seq=352. ACK=352
+[RUDP-GBN] Recebido em ordem DATA seq=353. ACK=353
+[RUDP-GBN] Recebido em ordem DATA seq=354. ACK=354
+[RUDP-GBN] Recebido em ordem DATA seq=355. ACK=355
+[RUDP-GBN] Fora de ordem DATA seq=357. Esperado=356. Reenviando ACK=355
+[RUDP-GBN] Fora de ordem DATA seq=358. Esperado=356. Reenviando ACK=355
+[RUDP-GBN] Fora de ordem DATA seq=359. Esperado=356. Reenviando ACK=355
+[RUDP-GBN] Fora de ordem DATA seq=360. Esperado=356. Reenviando ACK=355
+[RUDP-GBN] Fora de ordem DATA seq=363. Esperado=356. Reenviando ACK=355
+[RUDP-GBN] Recebido em ordem DATA seq=356. ACK=356
+[RUDP-GBN] Recebido em ordem DATA seq=357. ACK=357
+[RUDP-GBN] Recebido em ordem DATA seq=358. ACK=358
+[RUDP-GBN] Recebido em ordem DATA seq=359. ACK=359
+[RUDP-GBN] Recebido em ordem DATA seq=360. ACK=360
+[RUDP-GBN] Recebido em ordem DATA seq=361. ACK=361
+[RUDP-GBN] Recebido em ordem DATA seq=362. ACK=362
+[RUDP-GBN] Recebido em ordem DATA seq=363. ACK=363
+[RUDP-GBN] Recebido em ordem DATA seq=364. ACK=364
+[RUDP-GBN] Recebido em ordem DATA seq=365. ACK=365
+[RUDP-GBN] Recebido em ordem DATA seq=366. ACK=366
+[RUDP-GBN] Recebido em ordem DATA seq=367. ACK=367
+[RUDP-GBN] Recebido em ordem DATA seq=368. ACK=368
+[RUDP-GBN] Fora de ordem DATA seq=370. Esperado=369. Reenviando ACK=368
+[RUDP-GBN] Fora de ordem DATA seq=371. Esperado=369. Reenviando ACK=368
+[RUDP-GBN] Fora de ordem DATA seq=372. Esperado=369. Reenviando ACK=368
+[RUDP-GBN] Fora de ordem DATA seq=373. Esperado=369. Reenviando ACK=368
+[RUDP-GBN] Fora de ordem DATA seq=374. Esperado=369. Reenviando ACK=368
+[RUDP-GBN] Fora de ordem DATA seq=375. Esperado=369. Reenviando ACK=368
+[RUDP-GBN] Fora de ordem DATA seq=376. Esperado=369. Reenviando ACK=368
+[RUDP-GBN] Recebido em ordem DATA seq=369. ACK=369
+[RUDP-GBN] Recebido em ordem DATA seq=370. ACK=370
+[RUDP-GBN] Recebido em ordem DATA seq=371. ACK=371
+[RUDP-GBN] Recebido em ordem DATA seq=372. ACK=372
+[RUDP-GBN] Recebido em ordem DATA seq=373. ACK=373
+[RUDP-GBN] Fora de ordem DATA seq=375. Esperado=374. Reenviando ACK=373
+[RUDP-GBN] Fora de ordem DATA seq=376. Esperado=374. Reenviando ACK=373
+[RUDP-GBN] Fora de ordem DATA seq=377. Esperado=374. Reenviando ACK=373
+[RUDP-GBN] Fora de ordem DATA seq=379. Esperado=374. Reenviando ACK=373
+[RUDP-GBN] Fora de ordem DATA seq=380. Esperado=374. Reenviando ACK=373
+[RUDP-GBN] Recebido em ordem DATA seq=374. ACK=374
+[RUDP-GBN] Recebido em ordem DATA seq=375. ACK=375
+[RUDP-GBN] Recebido em ordem DATA seq=376. ACK=376
+[RUDP-GBN] Recebido em ordem DATA seq=377. ACK=377
+[RUDP-GBN] Recebido em ordem DATA seq=378. ACK=378
+[RUDP-GBN] Recebido em ordem DATA seq=379. ACK=379
+[RUDP-GBN] Recebido em ordem DATA seq=380. ACK=380
+[RUDP-GBN] Recebido em ordem DATA seq=381. ACK=381
+[RUDP-GBN] Recebido em ordem DATA seq=382. ACK=382
+[RUDP-GBN] Recebido em ordem DATA seq=383. ACK=383
+[RUDP-GBN] Recebido em ordem DATA seq=384. ACK=384
+[RUDP-GBN] Recebido em ordem DATA seq=385. ACK=385
+[RUDP-GBN] Recebido em ordem DATA seq=386. ACK=386
+[RUDP-GBN] Fora de ordem DATA seq=388. Esperado=387. Reenviando ACK=386
+[RUDP-GBN] Fora de ordem DATA seq=390. Esperado=387. Reenviando ACK=386
+[RUDP-GBN] Fora de ordem DATA seq=391. Esperado=387. Reenviando ACK=386
+[RUDP-GBN] Fora de ordem DATA seq=392. Esperado=387. Reenviando ACK=386
+[RUDP-GBN] Fora de ordem DATA seq=393. Esperado=387. Reenviando ACK=386
+[RUDP-GBN] Fora de ordem DATA seq=394. Esperado=387. Reenviando ACK=386
+[RUDP-GBN] Recebido em ordem DATA seq=387. ACK=387
+[RUDP-GBN] Recebido em ordem DATA seq=388. ACK=388
+[RUDP-GBN] Recebido em ordem DATA seq=389. ACK=389
+[RUDP-GBN] Recebido em ordem DATA seq=390. ACK=390
+[RUDP-GBN] Recebido em ordem DATA seq=391. ACK=391
+[RUDP-GBN] Recebido em ordem DATA seq=392. ACK=392
+[RUDP-GBN] Recebido em ordem DATA seq=393. ACK=393
+[RUDP-GBN] Recebido em ordem DATA seq=394. ACK=394
+[RUDP-GBN] Recebido em ordem DATA seq=395. ACK=395
+[RUDP-GBN] Recebido em ordem DATA seq=396. ACK=396
+[RUDP-GBN] Fora de ordem DATA seq=398. Esperado=397. Reenviando ACK=396
+[RUDP-GBN] Fora de ordem DATA seq=399. Esperado=397. Reenviando ACK=396
+[RUDP-GBN] Fora de ordem DATA seq=400. Esperado=397. Reenviando ACK=396
+[RUDP-GBN] Fora de ordem DATA seq=401. Esperado=397. Reenviando ACK=396
+[RUDP-GBN] Fora de ordem DATA seq=402. Esperado=397. Reenviando ACK=396
+[RUDP-GBN] Fora de ordem DATA seq=403. Esperado=397. Reenviando ACK=396
+[RUDP-GBN] Fora de ordem DATA seq=404. Esperado=397. Reenviando ACK=396
+[RUDP-GBN] Recebido em ordem DATA seq=397. ACK=397
+[RUDP-GBN] Recebido em ordem DATA seq=398. ACK=398
+[RUDP-GBN] Recebido em ordem DATA seq=399. ACK=399
+[RUDP-GBN] Fora de ordem DATA seq=401. Esperado=400. Reenviando ACK=399
+[RUDP-GBN] Fora de ordem DATA seq=402. Esperado=400. Reenviando ACK=399
+[RUDP-GBN] Fora de ordem DATA seq=403. Esperado=400. Reenviando ACK=399
+[RUDP-GBN] Fora de ordem DATA seq=404. Esperado=400. Reenviando ACK=399
+[RUDP-GBN] Fora de ordem DATA seq=405. Esperado=400. Reenviando ACK=399
+[RUDP-GBN] Fora de ordem DATA seq=406. Esperado=400. Reenviando ACK=399
+[RUDP-GBN] Fora de ordem DATA seq=407. Esperado=400. Reenviando ACK=399
+[RUDP-GBN] Recebido em ordem DATA seq=400. ACK=400
+[RUDP-GBN] Recebido em ordem DATA seq=401. ACK=401
+[RUDP-GBN] Recebido em ordem DATA seq=402. ACK=402
+[RUDP-GBN] Fora de ordem DATA seq=405. Esperado=403. Reenviando ACK=402
+[RUDP-GBN] Fora de ordem DATA seq=406. Esperado=403. Reenviando ACK=402
+[RUDP-GBN] Fora de ordem DATA seq=407. Esperado=403. Reenviando ACK=402
+[RUDP-GBN] Fora de ordem DATA seq=408. Esperado=403. Reenviando ACK=402
+[RUDP-GBN] Fora de ordem DATA seq=409. Esperado=403. Reenviando ACK=402
+[RUDP-GBN] Fora de ordem DATA seq=410. Esperado=403. Reenviando ACK=402
+[RUDP-GBN] Recebido em ordem DATA seq=403. ACK=403
+[RUDP-GBN] Recebido em ordem DATA seq=404. ACK=404
+[RUDP-GBN] Recebido em ordem DATA seq=405. ACK=405
+[RUDP-GBN] Recebido em ordem DATA seq=406. ACK=406
+[RUDP-GBN] Recebido em ordem DATA seq=407. ACK=407
+[RUDP-GBN] Recebido em ordem DATA seq=408. ACK=408
+[RUDP-GBN] Recebido em ordem DATA seq=409. ACK=409
+[RUDP-GBN] Recebido em ordem DATA seq=410. ACK=410
+[RUDP-GBN] Recebido em ordem DATA seq=411. ACK=411
+[RUDP-GBN] Recebido em ordem DATA seq=412. ACK=412
+[RUDP-GBN] Recebido em ordem DATA seq=413. ACK=413
+[RUDP-GBN] Fora de ordem DATA seq=415. Esperado=414. Reenviando ACK=413
+[RUDP-GBN] Fora de ordem DATA seq=417. Esperado=414. Reenviando ACK=413
+[RUDP-GBN] Fora de ordem DATA seq=418. Esperado=414. Reenviando ACK=413
+[RUDP-GBN] Fora de ordem DATA seq=419. Esperado=414. Reenviando ACK=413
+[RUDP-GBN] Fora de ordem DATA seq=420. Esperado=414. Reenviando ACK=413
+[RUDP-GBN] Fora de ordem DATA seq=415. Esperado=414. Reenviando ACK=413
+[RUDP-GBN] Fora de ordem DATA seq=416. Esperado=414. Reenviando ACK=413
+[RUDP-GBN] Fora de ordem DATA seq=417. Esperado=414. Reenviando ACK=413
+[RUDP-GBN] Fora de ordem DATA seq=418. Esperado=414. Reenviando ACK=413
+[RUDP-GBN] Fora de ordem DATA seq=420. Esperado=414. Reenviando ACK=413
+[RUDP-GBN] Fora de ordem DATA seq=421. Esperado=414. Reenviando ACK=413
+[RUDP-GBN] Fora de ordem DATA seq=415. Esperado=414. Reenviando ACK=413
+[RUDP-GBN] Fora de ordem DATA seq=416. Esperado=414. Reenviando ACK=413
+[RUDP-GBN] Fora de ordem DATA seq=417. Esperado=414. Reenviando ACK=413
+[RUDP-GBN] Fora de ordem DATA seq=418. Esperado=414. Reenviando ACK=413
+[RUDP-GBN] Fora de ordem DATA seq=419. Esperado=414. Reenviando ACK=413
+[RUDP-GBN] Fora de ordem DATA seq=421. Esperado=414. Reenviando ACK=413
+[RUDP-GBN] Fora de ordem DATA seq=415. Esperado=414. Reenviando ACK=413
+[RUDP-GBN] Fora de ordem DATA seq=416. Esperado=414. Reenviando ACK=413
+[RUDP-GBN] Fora de ordem DATA seq=417. Esperado=414. Reenviando ACK=413
+[RUDP-GBN] Fora de ordem DATA seq=418. Esperado=414. Reenviando ACK=413
+[RUDP-GBN] Fora de ordem DATA seq=419. Esperado=414. Reenviando ACK=413
+[RUDP-GBN] Fora de ordem DATA seq=421. Esperado=414. Reenviando ACK=413
+[RUDP-GBN] Recebido em ordem DATA seq=414. ACK=414
+[RUDP-GBN] Recebido em ordem DATA seq=415. ACK=415
+[RUDP-GBN] Recebido em ordem DATA seq=416. ACK=416
+[RUDP-GBN] Recebido em ordem DATA seq=417. ACK=417
+[RUDP-GBN] Recebido em ordem DATA seq=418. ACK=418
+[RUDP-GBN] Recebido em ordem DATA seq=419. ACK=419
+[RUDP-GBN] Recebido em ordem DATA seq=420. ACK=420
+[RUDP-GBN] Recebido em ordem DATA seq=421. ACK=421
+[RUDP-GBN] Recebido em ordem DATA seq=422. ACK=422
+[RUDP-GBN] Fora de ordem DATA seq=424. Esperado=423. Reenviando ACK=422
+[RUDP-GBN] Fora de ordem DATA seq=425. Esperado=423. Reenviando ACK=422
+[RUDP-GBN] Fora de ordem DATA seq=426. Esperado=423. Reenviando ACK=422
+[RUDP-GBN] Fora de ordem DATA seq=428. Esperado=423. Reenviando ACK=422
+[RUDP-GBN] Fora de ordem DATA seq=429. Esperado=423. Reenviando ACK=422
+[RUDP-GBN] Fora de ordem DATA seq=430. Esperado=423. Reenviando ACK=422
+[RUDP-GBN] Recebido em ordem DATA seq=423. ACK=423
+[RUDP-GBN] Recebido em ordem DATA seq=424. ACK=424
+[RUDP-GBN] Fora de ordem DATA seq=426. Esperado=425. Reenviando ACK=424
+[RUDP-GBN] Fora de ordem DATA seq=427. Esperado=425. Reenviando ACK=424
+[RUDP-GBN] Fora de ordem DATA seq=428. Esperado=425. Reenviando ACK=424
+[RUDP-GBN] Fora de ordem DATA seq=429. Esperado=425. Reenviando ACK=424
+[RUDP-GBN] Fora de ordem DATA seq=430. Esperado=425. Reenviando ACK=424
+[RUDP-GBN] Fora de ordem DATA seq=432. Esperado=425. Reenviando ACK=424
+[RUDP-GBN] Recebido em ordem DATA seq=425. ACK=425
+[RUDP-GBN] Recebido em ordem DATA seq=426. ACK=426
+[RUDP-GBN] Recebido em ordem DATA seq=427. ACK=427
+[RUDP-GBN] Recebido em ordem DATA seq=428. ACK=428
+[RUDP-GBN] Recebido em ordem DATA seq=429. ACK=429
+[RUDP-GBN] Recebido em ordem DATA seq=430. ACK=430
+[RUDP-GBN] Recebido em ordem DATA seq=431. ACK=431
+[RUDP-GBN] Recebido em ordem DATA seq=432. ACK=432
+[RUDP-GBN] Recebido em ordem DATA seq=433. ACK=433
+[RUDP-GBN] Recebido em ordem DATA seq=434. ACK=434
+[RUDP-GBN] Recebido em ordem DATA seq=435. ACK=435
+[RUDP-GBN] Recebido em ordem DATA seq=436. ACK=436
+[RUDP-GBN] Recebido em ordem DATA seq=437. ACK=437
+[RUDP-GBN] Recebido em ordem DATA seq=438. ACK=438
+[RUDP-GBN] Recebido em ordem DATA seq=439. ACK=439
+[RUDP-GBN] Recebido em ordem DATA seq=440. ACK=440
+[RUDP-GBN] Recebido em ordem DATA seq=441. ACK=441
+[RUDP-GBN] Recebido em ordem DATA seq=442. ACK=442
+[RUDP-GBN] Recebido em ordem DATA seq=443. ACK=443
+[RUDP-GBN] Recebido em ordem DATA seq=444. ACK=444
+[RUDP-GBN] Recebido em ordem DATA seq=445. ACK=445
+[RUDP-GBN] Recebido em ordem DATA seq=446. ACK=446
+[RUDP-GBN] Recebido em ordem DATA seq=447. ACK=447
+[RUDP-GBN] Recebido em ordem DATA seq=448. ACK=448
+[RUDP-GBN] Recebido em ordem DATA seq=449. ACK=449
+[RUDP-GBN] Recebido em ordem DATA seq=450. ACK=450
+[RUDP-GBN] Recebido em ordem DATA seq=451. ACK=451
+[RUDP-GBN] Recebido em ordem DATA seq=452. ACK=452
+[RUDP-GBN] Recebido em ordem DATA seq=453. ACK=453
+[RUDP-GBN] Recebido em ordem DATA seq=454. ACK=454
+[RUDP-GBN] Recebido em ordem DATA seq=455. ACK=455
+[RUDP-GBN] Recebido em ordem DATA seq=456. ACK=456
+[RUDP-GBN] Recebido em ordem DATA seq=457. ACK=457
+[RUDP-GBN] Recebido em ordem DATA seq=458. ACK=458
+[RUDP-GBN] Recebido em ordem DATA seq=459. ACK=459
+[RUDP-GBN] Recebido em ordem DATA seq=460. ACK=460
+[RUDP-GBN] Recebido em ordem DATA seq=461. ACK=461
+[RUDP-GBN] Recebido em ordem DATA seq=462. ACK=462
+[RUDP-GBN] Recebido em ordem DATA seq=463. ACK=463
+[RUDP-GBN] Recebido em ordem DATA seq=464. ACK=464
+[RUDP-GBN] Recebido em ordem DATA seq=465. ACK=465
+[RUDP-GBN] Recebido em ordem DATA seq=466. ACK=466
+[RUDP-GBN] Recebido em ordem DATA seq=467. ACK=467
+[RUDP-GBN] Recebido em ordem DATA seq=468. ACK=468
+[RUDP-GBN] Recebido em ordem DATA seq=469. ACK=469
+[RUDP-GBN] Recebido em ordem DATA seq=470. ACK=470
+[RUDP-GBN] Recebido em ordem DATA seq=471. ACK=471
+[RUDP-GBN] Recebido em ordem DATA seq=472. ACK=472
+[RUDP-GBN] Recebido em ordem DATA seq=473. ACK=473
+[RUDP-GBN] Recebido em ordem DATA seq=474. ACK=474
+[RUDP-GBN] Recebido em ordem DATA seq=475. ACK=475
+[RUDP-GBN] Recebido em ordem DATA seq=476. ACK=476
+[RUDP-GBN] Recebido em ordem DATA seq=477. ACK=477
+[RUDP-GBN] Recebido em ordem DATA seq=478. ACK=478
+[RUDP-GBN] Recebido em ordem DATA seq=479. ACK=479
+[RUDP-GBN] Recebido em ordem DATA seq=480. ACK=480
+[RUDP-GBN] Recebido em ordem DATA seq=481. ACK=481
+[RUDP-GBN] Fora de ordem DATA seq=483. Esperado=482. Reenviando ACK=481
+[RUDP-GBN] Fora de ordem DATA seq=484. Esperado=482. Reenviando ACK=481
+[RUDP-GBN] Fora de ordem DATA seq=485. Esperado=482. Reenviando ACK=481
+[RUDP-GBN] Fora de ordem DATA seq=486. Esperado=482. Reenviando ACK=481
+[RUDP-GBN] Fora de ordem DATA seq=487. Esperado=482. Reenviando ACK=481
+[RUDP-GBN] Fora de ordem DATA seq=488. Esperado=482. Reenviando ACK=481
+[RUDP-GBN] Fora de ordem DATA seq=489. Esperado=482. Reenviando ACK=481
+[RUDP-GBN] Recebido em ordem DATA seq=482. ACK=482
+[RUDP-GBN] Recebido em ordem DATA seq=483. ACK=483
+[RUDP-GBN] Fora de ordem DATA seq=485. Esperado=484. Reenviando ACK=483
+[RUDP-GBN] Fora de ordem DATA seq=486. Esperado=484. Reenviando ACK=483
+[RUDP-GBN] Fora de ordem DATA seq=489. Esperado=484. Reenviando ACK=483
+[RUDP-GBN] Fora de ordem DATA seq=490. Esperado=484. Reenviando ACK=483
+[RUDP-GBN] Fora de ordem DATA seq=491. Esperado=484. Reenviando ACK=483
+[RUDP-GBN] Recebido em ordem DATA seq=484. ACK=484
+[RUDP-GBN] Recebido em ordem DATA seq=485. ACK=485
+[RUDP-GBN] Fora de ordem DATA seq=487. Esperado=486. Reenviando ACK=485
+[RUDP-GBN] Fora de ordem DATA seq=488. Esperado=486. Reenviando ACK=485
+[RUDP-GBN] Fora de ordem DATA seq=489. Esperado=486. Reenviando ACK=485
+[RUDP-GBN] Fora de ordem DATA seq=490. Esperado=486. Reenviando ACK=485
+[RUDP-GBN] Fora de ordem DATA seq=491. Esperado=486. Reenviando ACK=485
+[RUDP-GBN] Fora de ordem DATA seq=492. Esperado=486. Reenviando ACK=485
+[RUDP-GBN] Fora de ordem DATA seq=493. Esperado=486. Reenviando ACK=485
+[RUDP-GBN] Recebido em ordem DATA seq=486. ACK=486
+[RUDP-GBN] Recebido em ordem DATA seq=487. ACK=487
+[RUDP-GBN] Recebido em ordem DATA seq=488. ACK=488
+[RUDP-GBN] Recebido em ordem DATA seq=489. ACK=489
+[RUDP-GBN] Fora de ordem DATA seq=491. Esperado=490. Reenviando ACK=489
+[RUDP-GBN] Fora de ordem DATA seq=492. Esperado=490. Reenviando ACK=489
+[RUDP-GBN] Fora de ordem DATA seq=493. Esperado=490. Reenviando ACK=489
+[RUDP-GBN] Fora de ordem DATA seq=494. Esperado=490. Reenviando ACK=489
+[RUDP-GBN] Fora de ordem DATA seq=495. Esperado=490. Reenviando ACK=489
+[RUDP-GBN] Fora de ordem DATA seq=496. Esperado=490. Reenviando ACK=489
+[RUDP-GBN] Fora de ordem DATA seq=497. Esperado=490. Reenviando ACK=489
+[RUDP-GBN] Recebido em ordem DATA seq=490. ACK=490
+[RUDP-GBN] Recebido em ordem DATA seq=491. ACK=491
+[RUDP-GBN] Recebido em ordem DATA seq=492. ACK=492
+[RUDP-GBN] Fora de ordem DATA seq=494. Esperado=493. Reenviando ACK=492
+[RUDP-GBN] Fora de ordem DATA seq=495. Esperado=493. Reenviando ACK=492
+[RUDP-GBN] Fora de ordem DATA seq=496. Esperado=493. Reenviando ACK=492
+[RUDP-GBN] Fora de ordem DATA seq=497. Esperado=493. Reenviando ACK=492
+[RUDP-GBN] Fora de ordem DATA seq=498. Esperado=493. Reenviando ACK=492
+[RUDP-GBN] Fora de ordem DATA seq=499. Esperado=493. Reenviando ACK=492
+[RUDP-GBN] Fora de ordem DATA seq=500. Esperado=493. Reenviando ACK=492
+[RUDP-GBN] Recebido em ordem DATA seq=493. ACK=493
+[RUDP-GBN] Recebido em ordem DATA seq=494. ACK=494
+[RUDP-GBN] Recebido em ordem DATA seq=495. ACK=495
+[RUDP-GBN] Recebido em ordem DATA seq=496. ACK=496
+[RUDP-GBN] Recebido em ordem DATA seq=497. ACK=497
+[RUDP-GBN] Recebido em ordem DATA seq=498. ACK=498
+[RUDP-GBN] Recebido em ordem DATA seq=499. ACK=499
+[RUDP-GBN] Recebido em ordem DATA seq=500. ACK=500
+[RUDP-GBN] Recebido em ordem DATA seq=501. ACK=501
+[RUDP-GBN] Recebido em ordem DATA seq=502. ACK=502
+[RUDP-GBN] Recebido em ordem DATA seq=503. ACK=503
+[RUDP-GBN] Recebido em ordem DATA seq=504. ACK=504
+[RUDP-GBN] Fora de ordem DATA seq=506. Esperado=505. Reenviando ACK=504
+[RUDP-GBN] Fora de ordem DATA seq=507. Esperado=505. Reenviando ACK=504
+[RUDP-GBN] Fora de ordem DATA seq=508. Esperado=505. Reenviando ACK=504
+[RUDP-GBN] Fora de ordem DATA seq=509. Esperado=505. Reenviando ACK=504
+[RUDP-GBN] Fora de ordem DATA seq=512. Esperado=505. Reenviando ACK=504
+[RUDP-GBN] Recebido em ordem DATA seq=505. ACK=505
+[RUDP-GBN] Recebido em ordem DATA seq=506. ACK=506
+[RUDP-GBN] Recebido em ordem DATA seq=507. ACK=507
+[RUDP-GBN] Recebido em ordem DATA seq=508. ACK=508
+[RUDP-GBN] Fora de ordem DATA seq=510. Esperado=509. Reenviando ACK=508
+[RUDP-GBN] Fora de ordem DATA seq=511. Esperado=509. Reenviando ACK=508
+[RUDP-GBN] Fora de ordem DATA seq=512. Esperado=509. Reenviando ACK=508
+[RUDP-GBN] Fora de ordem DATA seq=514. Esperado=509. Reenviando ACK=508
+[RUDP-GBN] Fora de ordem DATA seq=515. Esperado=509. Reenviando ACK=508
+[RUDP-GBN] Fora de ordem DATA seq=516. Esperado=509. Reenviando ACK=508
+[RUDP-GBN] Recebido em ordem DATA seq=509. ACK=509
+[RUDP-GBN] Recebido em ordem DATA seq=510. ACK=510
+[RUDP-GBN] Recebido em ordem DATA seq=511. ACK=511
+[RUDP-GBN] Recebido em ordem DATA seq=512. ACK=512
+[RUDP-GBN] Recebido em ordem DATA seq=513. ACK=513
+[RUDP-GBN] Recebido em ordem DATA seq=514. ACK=514
+[RUDP-GBN] Fora de ordem DATA seq=516. Esperado=515. Reenviando ACK=514
+[RUDP-GBN] Fora de ordem DATA seq=518. Esperado=515. Reenviando ACK=514
+[RUDP-GBN] Fora de ordem DATA seq=519. Esperado=515. Reenviando ACK=514
+[RUDP-GBN] Fora de ordem DATA seq=520. Esperado=515. Reenviando ACK=514
+[RUDP-GBN] Fora de ordem DATA seq=521. Esperado=515. Reenviando ACK=514
+[RUDP-GBN] Fora de ordem DATA seq=522. Esperado=515. Reenviando ACK=514
+[RUDP-GBN] Recebido em ordem DATA seq=515. ACK=515
+[RUDP-GBN] Recebido em ordem DATA seq=516. ACK=516
+[RUDP-GBN] Recebido em ordem DATA seq=517. ACK=517
+[RUDP-GBN] Recebido em ordem DATA seq=518. ACK=518
+[RUDP-GBN] Recebido em ordem DATA seq=519. ACK=519
+[RUDP-GBN] Recebido em ordem DATA seq=520. ACK=520
+[RUDP-GBN] Recebido em ordem DATA seq=521. ACK=521
+[RUDP-GBN] Recebido em ordem DATA seq=522. ACK=522
+[RUDP-GBN] Recebido em ordem DATA seq=523. ACK=523
+[RUDP-GBN] Fora de ordem DATA seq=525. Esperado=524. Reenviando ACK=523
+[RUDP-GBN] Fora de ordem DATA seq=526. Esperado=524. Reenviando ACK=523
+[RUDP-GBN] Fora de ordem DATA seq=528. Esperado=524. Reenviando ACK=523
+[RUDP-GBN] Fora de ordem DATA seq=529. Esperado=524. Reenviando ACK=523
+[RUDP-GBN] Fora de ordem DATA seq=530. Esperado=524. Reenviando ACK=523
+[RUDP-GBN] Fora de ordem DATA seq=531. Esperado=524. Reenviando ACK=523
+[RUDP-GBN] Recebido em ordem DATA seq=524. ACK=524
+[RUDP-GBN] Recebido em ordem DATA seq=525. ACK=525
+[RUDP-GBN] Recebido em ordem DATA seq=526. ACK=526
+[RUDP-GBN] Recebido em ordem DATA seq=527. ACK=527
+[RUDP-GBN] Recebido em ordem DATA seq=528. ACK=528
+[RUDP-GBN] Recebido em ordem DATA seq=529. ACK=529
+[RUDP-GBN] Recebido em ordem DATA seq=530. ACK=530
+[RUDP-GBN] Recebido em ordem DATA seq=531. ACK=531
+[RUDP-GBN] Recebido em ordem DATA seq=532. ACK=532
+[RUDP-GBN] Recebido em ordem DATA seq=533. ACK=533
+[RUDP-GBN] Recebido em ordem DATA seq=534. ACK=534
+[RUDP-GBN] Recebido em ordem DATA seq=535. ACK=535
+[RUDP-GBN] Recebido em ordem DATA seq=536. ACK=536
+[RUDP-GBN] Recebido em ordem DATA seq=537. ACK=537
+[RUDP-GBN] Fora de ordem DATA seq=539. Esperado=538. Reenviando ACK=537
+[RUDP-GBN] Fora de ordem DATA seq=540. Esperado=538. Reenviando ACK=537
+[RUDP-GBN] Fora de ordem DATA seq=541. Esperado=538. Reenviando ACK=537
+[RUDP-GBN] Fora de ordem DATA seq=542. Esperado=538. Reenviando ACK=537
+[RUDP-GBN] Fora de ordem DATA seq=543. Esperado=538. Reenviando ACK=537
+[RUDP-GBN] Fora de ordem DATA seq=544. Esperado=538. Reenviando ACK=537
+[RUDP-GBN] Fora de ordem DATA seq=545. Esperado=538. Reenviando ACK=537
+[RUDP-GBN] Recebido em ordem DATA seq=538. ACK=538
+[RUDP-GBN] Recebido em ordem DATA seq=539. ACK=539
+[RUDP-GBN] Recebido em ordem DATA seq=540. ACK=540
+[RUDP-GBN] Recebido em ordem DATA seq=541. ACK=541
+[RUDP-GBN] Recebido em ordem DATA seq=542. ACK=542
+[RUDP-GBN] Recebido em ordem DATA seq=543. ACK=543
+[RUDP-GBN] Recebido em ordem DATA seq=544. ACK=544
+[RUDP-GBN] Recebido em ordem DATA seq=545. ACK=545
+[RUDP-GBN] Recebido em ordem DATA seq=546. ACK=546
+[RUDP-GBN] Fora de ordem DATA seq=548. Esperado=547. Reenviando ACK=546
+[RUDP-GBN] Fora de ordem DATA seq=549. Esperado=547. Reenviando ACK=546
+[RUDP-GBN] Fora de ordem DATA seq=550. Esperado=547. Reenviando ACK=546
+[RUDP-GBN] Fora de ordem DATA seq=551. Esperado=547. Reenviando ACK=546
+[RUDP-GBN] Fora de ordem DATA seq=553. Esperado=547. Reenviando ACK=546
+[RUDP-GBN] Fora de ordem DATA seq=554. Esperado=547. Reenviando ACK=546
+[RUDP-GBN] Recebido em ordem DATA seq=547. ACK=547
+[RUDP-GBN] Recebido em ordem DATA seq=548. ACK=548
+[RUDP-GBN] Recebido em ordem DATA seq=549. ACK=549
+[RUDP-GBN] Recebido em ordem DATA seq=550. ACK=550
+[RUDP-GBN] Fora de ordem DATA seq=552. Esperado=551. Reenviando ACK=550
+[RUDP-GBN] Fora de ordem DATA seq=553. Esperado=551. Reenviando ACK=550
+[RUDP-GBN] Fora de ordem DATA seq=554. Esperado=551. Reenviando ACK=550
+[RUDP-GBN] Fora de ordem DATA seq=555. Esperado=551. Reenviando ACK=550
+[RUDP-GBN] Fora de ordem DATA seq=556. Esperado=551. Reenviando ACK=550
+[RUDP-GBN] Fora de ordem DATA seq=557. Esperado=551. Reenviando ACK=550
+[RUDP-GBN] Fora de ordem DATA seq=558. Esperado=551. Reenviando ACK=550
+[RUDP-GBN] Recebido em ordem DATA seq=551. ACK=551
+[RUDP-GBN] Recebido em ordem DATA seq=552. ACK=552
+[RUDP-GBN] Recebido em ordem DATA seq=553. ACK=553
+[RUDP-GBN] Recebido em ordem DATA seq=554. ACK=554
+[RUDP-GBN] Recebido em ordem DATA seq=555. ACK=555
+[RUDP-GBN] Recebido em ordem DATA seq=556. ACK=556
+[RUDP-GBN] Recebido em ordem DATA seq=557. ACK=557
+[RUDP-GBN] Recebido em ordem DATA seq=558. ACK=558
+[RUDP-GBN] Recebido em ordem DATA seq=559. ACK=559
+[RUDP-GBN] Recebido em ordem DATA seq=560. ACK=560
+[RUDP-GBN] Recebido em ordem DATA seq=561. ACK=561
+[RUDP-GBN] Recebido em ordem DATA seq=562. ACK=562
+[RUDP-GBN] Recebido em ordem DATA seq=563. ACK=563
+[RUDP-GBN] Recebido em ordem DATA seq=564. ACK=564
+[RUDP-GBN] Recebido em ordem DATA seq=565. ACK=565
+[RUDP-GBN] Recebido em ordem DATA seq=566. ACK=566
+[RUDP-GBN] Recebido em ordem DATA seq=567. ACK=567
+[RUDP-GBN] Recebido em ordem DATA seq=568. ACK=568
+[RUDP-GBN] Recebido em ordem DATA seq=569. ACK=569
+[RUDP-GBN] Recebido em ordem DATA seq=570. ACK=570
+[RUDP-GBN] Fora de ordem DATA seq=572. Esperado=571. Reenviando ACK=570
+[RUDP-GBN] Fora de ordem DATA seq=573. Esperado=571. Reenviando ACK=570
+[RUDP-GBN] Fora de ordem DATA seq=574. Esperado=571. Reenviando ACK=570
+[RUDP-GBN] Fora de ordem DATA seq=575. Esperado=571. Reenviando ACK=570
+[RUDP-GBN] Fora de ordem DATA seq=576. Esperado=571. Reenviando ACK=570
+[RUDP-GBN] Fora de ordem DATA seq=577. Esperado=571. Reenviando ACK=570
+[RUDP-GBN] Fora de ordem DATA seq=578. Esperado=571. Reenviando ACK=570
+[RUDP-GBN] Recebido em ordem DATA seq=571. ACK=571
+[RUDP-GBN] Recebido em ordem DATA seq=572. ACK=572
+[RUDP-GBN] Recebido em ordem DATA seq=573. ACK=573
+[RUDP-GBN] Recebido em ordem DATA seq=574. ACK=574
+[RUDP-GBN] Recebido em ordem DATA seq=575. ACK=575
+[RUDP-GBN] Recebido em ordem DATA seq=576. ACK=576
+[RUDP-GBN] Recebido em ordem DATA seq=577. ACK=577
+[RUDP-GBN] Recebido em ordem DATA seq=578. ACK=578
+[RUDP-GBN] Fora de ordem DATA seq=580. Esperado=579. Reenviando ACK=578
+[RUDP-GBN] Fora de ordem DATA seq=581. Esperado=579. Reenviando ACK=578
+[RUDP-GBN] Fora de ordem DATA seq=582. Esperado=579. Reenviando ACK=578
+[RUDP-GBN] Fora de ordem DATA seq=583. Esperado=579. Reenviando ACK=578
+[RUDP-GBN] Fora de ordem DATA seq=585. Esperado=579. Reenviando ACK=578
+[RUDP-GBN] Fora de ordem DATA seq=586. Esperado=579. Reenviando ACK=578
+[RUDP-GBN] Fora de ordem DATA seq=580. Esperado=579. Reenviando ACK=578
+[RUDP-GBN] Fora de ordem DATA seq=581. Esperado=579. Reenviando ACK=578
+[RUDP-GBN] Fora de ordem DATA seq=582. Esperado=579. Reenviando ACK=578
+[RUDP-GBN] Fora de ordem DATA seq=583. Esperado=579. Reenviando ACK=578
+[RUDP-GBN] Fora de ordem DATA seq=584. Esperado=579. Reenviando ACK=578
+[RUDP-GBN] Fora de ordem DATA seq=585. Esperado=579. Reenviando ACK=578
+[RUDP-GBN] Fora de ordem DATA seq=586. Esperado=579. Reenviando ACK=578
+[RUDP-GBN] Recebido em ordem DATA seq=579. ACK=579
+[RUDP-GBN] Recebido em ordem DATA seq=580. ACK=580
+[RUDP-GBN] Recebido em ordem DATA seq=581. ACK=581
+[RUDP-GBN] Recebido em ordem DATA seq=582. ACK=582
+[RUDP-GBN] Recebido em ordem DATA seq=583. ACK=583
+[RUDP-GBN] Recebido em ordem DATA seq=584. ACK=584
+[RUDP-GBN] Fora de ordem DATA seq=586. Esperado=585. Reenviando ACK=584
+[RUDP-GBN] Fora de ordem DATA seq=588. Esperado=585. Reenviando ACK=584
+[RUDP-GBN] Fora de ordem DATA seq=589. Esperado=585. Reenviando ACK=584
+[RUDP-GBN] Fora de ordem DATA seq=590. Esperado=585. Reenviando ACK=584
+[RUDP-GBN] Fora de ordem DATA seq=592. Esperado=585. Reenviando ACK=584
+[RUDP-GBN] Recebido em ordem DATA seq=585. ACK=585
+[RUDP-GBN] Recebido em ordem DATA seq=586. ACK=586
+[RUDP-GBN] Recebido em ordem DATA seq=587. ACK=587
+[RUDP-GBN] Recebido em ordem DATA seq=588. ACK=588
+[RUDP-GBN] Recebido em ordem DATA seq=589. ACK=589
+[RUDP-GBN] Recebido em ordem DATA seq=590. ACK=590
+[RUDP-GBN] Recebido em ordem DATA seq=591. ACK=591
+[RUDP-GBN] Recebido em ordem DATA seq=592. ACK=592
+[RUDP-GBN] Recebido em ordem DATA seq=593. ACK=593
+[RUDP-GBN] Recebido em ordem DATA seq=594. ACK=594
+[RUDP-GBN] Recebido em ordem DATA seq=595. ACK=595
+[RUDP-GBN] Recebido em ordem DATA seq=596. ACK=596
+[RUDP-GBN] Fora de ordem DATA seq=599. Esperado=597. Reenviando ACK=596
+[RUDP-GBN] Fora de ordem DATA seq=600. Esperado=597. Reenviando ACK=596
+[RUDP-GBN] Fora de ordem DATA seq=601. Esperado=597. Reenviando ACK=596
+[RUDP-GBN] Fora de ordem DATA seq=602. Esperado=597. Reenviando ACK=596
+[RUDP-GBN] Fora de ordem DATA seq=603. Esperado=597. Reenviando ACK=596
+[RUDP-GBN] Recebido em ordem DATA seq=597. ACK=597
+[RUDP-GBN] Recebido em ordem DATA seq=598. ACK=598
+[RUDP-GBN] Recebido em ordem DATA seq=599. ACK=599
+[RUDP-GBN] Recebido em ordem DATA seq=600. ACK=600
+[RUDP-GBN] Fora de ordem DATA seq=602. Esperado=601. Reenviando ACK=600
+[RUDP-GBN] Fora de ordem DATA seq=604. Esperado=601. Reenviando ACK=600
+[RUDP-GBN] Fora de ordem DATA seq=605. Esperado=601. Reenviando ACK=600
+[RUDP-GBN] Fora de ordem DATA seq=606. Esperado=601. Reenviando ACK=600
+[RUDP-GBN] Fora de ordem DATA seq=607. Esperado=601. Reenviando ACK=600
+[RUDP-GBN] Fora de ordem DATA seq=608. Esperado=601. Reenviando ACK=600
+[RUDP-GBN] Recebido em ordem DATA seq=601. ACK=601
+[RUDP-GBN] Recebido em ordem DATA seq=602. ACK=602
+[RUDP-GBN] Recebido em ordem DATA seq=603. ACK=603
+[RUDP-GBN] Recebido em ordem DATA seq=604. ACK=604
+[RUDP-GBN] Recebido em ordem DATA seq=605. ACK=605
+[RUDP-GBN] Recebido em ordem DATA seq=606. ACK=606
+[RUDP-GBN] Recebido em ordem DATA seq=607. ACK=607
+[RUDP-GBN] Recebido em ordem DATA seq=608. ACK=608
+[RUDP-GBN] Recebido em ordem DATA seq=609. ACK=609
+[RUDP-GBN] Recebido em ordem DATA seq=610. ACK=610
+[RUDP-GBN] Recebido em ordem DATA seq=611. ACK=611
+[RUDP-GBN] Recebido em ordem DATA seq=612. ACK=612
+[RUDP-GBN] Fora de ordem DATA seq=614. Esperado=613. Reenviando ACK=612
+[RUDP-GBN] Fora de ordem DATA seq=616. Esperado=613. Reenviando ACK=612
+[RUDP-GBN] Fora de ordem DATA seq=617. Esperado=613. Reenviando ACK=612
+[RUDP-GBN] Fora de ordem DATA seq=618. Esperado=613. Reenviando ACK=612
+[RUDP-GBN] Fora de ordem DATA seq=619. Esperado=613. Reenviando ACK=612
+[RUDP-GBN] Fora de ordem DATA seq=620. Esperado=613. Reenviando ACK=612
+[RUDP-GBN] Recebido em ordem DATA seq=613. ACK=613
+[RUDP-GBN] Recebido em ordem DATA seq=614. ACK=614
+[RUDP-GBN] Recebido em ordem DATA seq=615. ACK=615
+[RUDP-GBN] Recebido em ordem DATA seq=616. ACK=616
+[RUDP-GBN] Recebido em ordem DATA seq=617. ACK=617
+[RUDP-GBN] Recebido em ordem DATA seq=618. ACK=618
+[RUDP-GBN] Recebido em ordem DATA seq=619. ACK=619
+[RUDP-GBN] Recebido em ordem DATA seq=620. ACK=620
+[RUDP-GBN] Recebido em ordem DATA seq=621. ACK=621
+[RUDP-GBN] Recebido em ordem DATA seq=622. ACK=622
+[RUDP-GBN] Recebido em ordem DATA seq=623. ACK=623
+[RUDP-GBN] Recebido em ordem DATA seq=624. ACK=624
+[RUDP-GBN] Recebido em ordem DATA seq=625. ACK=625
+[RUDP-GBN] Recebido em ordem DATA seq=626. ACK=626
+[RUDP-GBN] Recebido em ordem DATA seq=627. ACK=627
+[RUDP-GBN] Recebido em ordem DATA seq=628. ACK=628
+[RUDP-GBN] Recebido em ordem DATA seq=629. ACK=629
+[RUDP-GBN] Recebido em ordem DATA seq=630. ACK=630
+[RUDP-GBN] Recebido em ordem DATA seq=631. ACK=631
+[RUDP-GBN] Recebido em ordem DATA seq=632. ACK=632
+[RUDP-GBN] Recebido em ordem DATA seq=633. ACK=633
+[RUDP-GBN] Recebido em ordem DATA seq=634. ACK=634
+[RUDP-GBN] Recebido em ordem DATA seq=635. ACK=635
+[RUDP-GBN] Recebido em ordem DATA seq=636. ACK=636
+[RUDP-GBN] Recebido em ordem DATA seq=637. ACK=637
+[RUDP-GBN] Recebido em ordem DATA seq=638. ACK=638
+[RUDP-GBN] Recebido em ordem DATA seq=639. ACK=639
+[RUDP-GBN] Recebido em ordem DATA seq=640. ACK=640
+[RUDP-GBN] Recebido em ordem DATA seq=641. ACK=641
+[RUDP-GBN] Recebido em ordem DATA seq=642. ACK=642
+[RUDP-GBN] Recebido em ordem DATA seq=643. ACK=643
+[RUDP-GBN] Recebido em ordem DATA seq=644. ACK=644
+[RUDP-GBN] Recebido em ordem DATA seq=645. ACK=645
+[RUDP-GBN] Recebido em ordem DATA seq=646. ACK=646
+[RUDP-GBN] Recebido em ordem DATA seq=647. ACK=647
+[RUDP-GBN] Fora de ordem DATA seq=649. Esperado=648. Reenviando ACK=647
+[RUDP-GBN] Fora de ordem DATA seq=650. Esperado=648. Reenviando ACK=647
+[RUDP-GBN] Fora de ordem DATA seq=651. Esperado=648. Reenviando ACK=647
+[RUDP-GBN] Fora de ordem DATA seq=652. Esperado=648. Reenviando ACK=647
+[RUDP-GBN] Fora de ordem DATA seq=653. Esperado=648. Reenviando ACK=647
+[RUDP-GBN] Fora de ordem DATA seq=654. Esperado=648. Reenviando ACK=647
+[RUDP-GBN] Fora de ordem DATA seq=655. Esperado=648. Reenviando ACK=647
+[RUDP-GBN] Recebido em ordem DATA seq=648. ACK=648
+[RUDP-GBN] Recebido em ordem DATA seq=649. ACK=649
+[RUDP-GBN] Recebido em ordem DATA seq=650. ACK=650
+[RUDP-GBN] Recebido em ordem DATA seq=651. ACK=651
+[RUDP-GBN] Recebido em ordem DATA seq=652. ACK=652
+[RUDP-GBN] Fora de ordem DATA seq=654. Esperado=653. Reenviando ACK=652
+[RUDP-GBN] Fora de ordem DATA seq=655. Esperado=653. Reenviando ACK=652
+[RUDP-GBN] Fora de ordem DATA seq=656. Esperado=653. Reenviando ACK=652
+[RUDP-GBN] Fora de ordem DATA seq=657. Esperado=653. Reenviando ACK=652
+[RUDP-GBN] Fora de ordem DATA seq=658. Esperado=653. Reenviando ACK=652
+[RUDP-GBN] Fora de ordem DATA seq=659. Esperado=653. Reenviando ACK=652
+[RUDP-GBN] Fora de ordem DATA seq=660. Esperado=653. Reenviando ACK=652
+[RUDP-GBN] Recebido em ordem DATA seq=653. ACK=653
+[RUDP-GBN] Recebido em ordem DATA seq=654. ACK=654
+[RUDP-GBN] Recebido em ordem DATA seq=655. ACK=655
+[RUDP-GBN] Recebido em ordem DATA seq=656. ACK=656
+[RUDP-GBN] Recebido em ordem DATA seq=657. ACK=657
+[RUDP-GBN] Recebido em ordem DATA seq=658. ACK=658
+[RUDP-GBN] Recebido em ordem DATA seq=659. ACK=659
+[RUDP-GBN] Recebido em ordem DATA seq=660. ACK=660
+[RUDP-GBN] Recebido em ordem DATA seq=661. ACK=661
+[RUDP-GBN] Recebido em ordem DATA seq=662. ACK=662
+[RUDP-GBN] Recebido em ordem DATA seq=663. ACK=663
+[RUDP-GBN] Fora de ordem DATA seq=667. Esperado=664. Reenviando ACK=663
+[RUDP-GBN] Fora de ordem DATA seq=668. Esperado=664. Reenviando ACK=663
+[RUDP-GBN] Fora de ordem DATA seq=669. Esperado=664. Reenviando ACK=663
+[RUDP-GBN] Fora de ordem DATA seq=670. Esperado=664. Reenviando ACK=663
+[RUDP-GBN] Fora de ordem DATA seq=671. Esperado=664. Reenviando ACK=663
+[RUDP-GBN] Fora de ordem DATA seq=665. Esperado=664. Reenviando ACK=663
+[RUDP-GBN] Fora de ordem DATA seq=666. Esperado=664. Reenviando ACK=663
+[RUDP-GBN] Fora de ordem DATA seq=667. Esperado=664. Reenviando ACK=663
+[RUDP-GBN] Fora de ordem DATA seq=668. Esperado=664. Reenviando ACK=663
+[RUDP-GBN] Fora de ordem DATA seq=669. Esperado=664. Reenviando ACK=663
+[RUDP-GBN] Fora de ordem DATA seq=671. Esperado=664. Reenviando ACK=663
+[RUDP-GBN] Recebido em ordem DATA seq=664. ACK=664
+[RUDP-GBN] Recebido em ordem DATA seq=665. ACK=665
+[RUDP-GBN] Recebido em ordem DATA seq=666. ACK=666
+[RUDP-GBN] Recebido em ordem DATA seq=667. ACK=667
+[RUDP-GBN] Recebido em ordem DATA seq=668. ACK=668
+[RUDP-GBN] Recebido em ordem DATA seq=669. ACK=669
+[RUDP-GBN] Recebido em ordem DATA seq=670. ACK=670
+[RUDP-GBN] Recebido em ordem DATA seq=671. ACK=671
+[RUDP-GBN] Recebido em ordem DATA seq=672. ACK=672
+[RUDP-GBN] Recebido em ordem DATA seq=673. ACK=673
+[RUDP-GBN] Recebido em ordem DATA seq=674. ACK=674
+[RUDP-GBN] Recebido em ordem DATA seq=675. ACK=675
+[RUDP-GBN] Recebido em ordem DATA seq=676. ACK=676
+[RUDP-GBN] Recebido em ordem DATA seq=677. ACK=677
+[RUDP-GBN] Recebido em ordem DATA seq=678. ACK=678
+[RUDP-GBN] Fora de ordem DATA seq=680. Esperado=679. Reenviando ACK=678
+[RUDP-GBN] Fora de ordem DATA seq=681. Esperado=679. Reenviando ACK=678
+[RUDP-GBN] Fora de ordem DATA seq=682. Esperado=679. Reenviando ACK=678
+[RUDP-GBN] Fora de ordem DATA seq=683. Esperado=679. Reenviando ACK=678
+[RUDP-GBN] Fora de ordem DATA seq=684. Esperado=679. Reenviando ACK=678
+[RUDP-GBN] Fora de ordem DATA seq=685. Esperado=679. Reenviando ACK=678
+[RUDP-GBN] Fora de ordem DATA seq=686. Esperado=679. Reenviando ACK=678
+[RUDP-GBN] Recebido em ordem DATA seq=679. ACK=679
+[RUDP-GBN] Recebido em ordem DATA seq=680. ACK=680
+[RUDP-GBN] Fora de ordem DATA seq=682. Esperado=681. Reenviando ACK=680
+[RUDP-GBN] Fora de ordem DATA seq=683. Esperado=681. Reenviando ACK=680
+[RUDP-GBN] Fora de ordem DATA seq=684. Esperado=681. Reenviando ACK=680
+[RUDP-GBN] Fora de ordem DATA seq=685. Esperado=681. Reenviando ACK=680
+[RUDP-GBN] Fora de ordem DATA seq=686. Esperado=681. Reenviando ACK=680
+[RUDP-GBN] Fora de ordem DATA seq=688. Esperado=681. Reenviando ACK=680
+[RUDP-GBN] Recebido em ordem DATA seq=681. ACK=681
+[RUDP-GBN] Recebido em ordem DATA seq=682. ACK=682
+[RUDP-GBN] Recebido em ordem DATA seq=683. ACK=683
+[RUDP-GBN] Recebido em ordem DATA seq=684. ACK=684
+[RUDP-GBN] Fora de ordem DATA seq=686. Esperado=685. Reenviando ACK=684
+[RUDP-GBN] Fora de ordem DATA seq=687. Esperado=685. Reenviando ACK=684
+[RUDP-GBN] Fora de ordem DATA seq=688. Esperado=685. Reenviando ACK=684
+[RUDP-GBN] Fora de ordem DATA seq=690. Esperado=685. Reenviando ACK=684
+[RUDP-GBN] Fora de ordem DATA seq=691. Esperado=685. Reenviando ACK=684
+[RUDP-GBN] Fora de ordem DATA seq=692. Esperado=685. Reenviando ACK=684
+[RUDP-GBN] Recebido em ordem DATA seq=685. ACK=685
+[RUDP-GBN] Recebido em ordem DATA seq=686. ACK=686
+[RUDP-GBN] Recebido em ordem DATA seq=687. ACK=687
+[RUDP-GBN] Recebido em ordem DATA seq=688. ACK=688
+[RUDP-GBN] Recebido em ordem DATA seq=689. ACK=689
+[RUDP-GBN] Recebido em ordem DATA seq=690. ACK=690
+[RUDP-GBN] Recebido em ordem DATA seq=691. ACK=691
+[RUDP-GBN] Recebido em ordem DATA seq=692. ACK=692
+[RUDP-GBN] Recebido em ordem DATA seq=693. ACK=693
+[RUDP-GBN] Fora de ordem DATA seq=695. Esperado=694. Reenviando ACK=693
+[RUDP-GBN] Fora de ordem DATA seq=696. Esperado=694. Reenviando ACK=693
+[RUDP-GBN] Fora de ordem DATA seq=697. Esperado=694. Reenviando ACK=693
+[RUDP-GBN] Fora de ordem DATA seq=698. Esperado=694. Reenviando ACK=693
+[RUDP-GBN] Fora de ordem DATA seq=699. Esperado=694. Reenviando ACK=693
+[RUDP-GBN] Fora de ordem DATA seq=700. Esperado=694. Reenviando ACK=693
+[RUDP-GBN] Fora de ordem DATA seq=701. Esperado=694. Reenviando ACK=693
+[RUDP-GBN] Recebido em ordem DATA seq=694. ACK=694
+[RUDP-GBN] Recebido em ordem DATA seq=695. ACK=695
+[RUDP-GBN] Recebido em ordem DATA seq=696. ACK=696
+[RUDP-GBN] Recebido em ordem DATA seq=697. ACK=697
+[RUDP-GBN] Recebido em ordem DATA seq=698. ACK=698
+[RUDP-GBN] Recebido em ordem DATA seq=699. ACK=699
+[RUDP-GBN] Recebido em ordem DATA seq=700. ACK=700
+[RUDP-GBN] Recebido em ordem DATA seq=701. ACK=701
+[RUDP-GBN] Recebido em ordem DATA seq=702. ACK=702
+[RUDP-GBN] Recebido em ordem DATA seq=703. ACK=703
+[RUDP-GBN] Recebido em ordem DATA seq=704. ACK=704
+[RUDP-GBN] Recebido em ordem DATA seq=705. ACK=705
+[RUDP-GBN] Recebido em ordem DATA seq=706. ACK=706
+[RUDP-GBN] Recebido em ordem DATA seq=707. ACK=707
+[RUDP-GBN] Recebido em ordem DATA seq=708. ACK=708
+[RUDP-GBN] Recebido em ordem DATA seq=709. ACK=709
+[RUDP-GBN] Recebido em ordem DATA seq=710. ACK=710
+[RUDP-GBN] Recebido em ordem DATA seq=711. ACK=711
+[RUDP-GBN] Recebido em ordem DATA seq=712. ACK=712
+[RUDP-GBN] Fora de ordem DATA seq=715. Esperado=713. Reenviando ACK=712
+[RUDP-GBN] Fora de ordem DATA seq=716. Esperado=713. Reenviando ACK=712
+[RUDP-GBN] Fora de ordem DATA seq=718. Esperado=713. Reenviando ACK=712
+[RUDP-GBN] Fora de ordem DATA seq=719. Esperado=713. Reenviando ACK=712
+[RUDP-GBN] Fora de ordem DATA seq=720. Esperado=713. Reenviando ACK=712
+[RUDP-GBN] Recebido em ordem DATA seq=713. ACK=713
+[RUDP-GBN] Recebido em ordem DATA seq=714. ACK=714
+[RUDP-GBN] Recebido em ordem DATA seq=715. ACK=715
+[RUDP-GBN] Recebido em ordem DATA seq=716. ACK=716
+[RUDP-GBN] Recebido em ordem DATA seq=717. ACK=717
+[RUDP-GBN] Recebido em ordem DATA seq=718. ACK=718
+[RUDP-GBN] Recebido em ordem DATA seq=719. ACK=719
+[RUDP-GBN] Recebido em ordem DATA seq=720. ACK=720
+[RUDP-GBN] Recebido em ordem DATA seq=721. ACK=721
+[RUDP-GBN] Recebido em ordem DATA seq=722. ACK=722
+[RUDP-GBN] Recebido em ordem DATA seq=723. ACK=723
+[RUDP-GBN] Recebido em ordem DATA seq=724. ACK=724
+[RUDP-GBN] Recebido em ordem DATA seq=725. ACK=725
+[RUDP-GBN] Recebido em ordem DATA seq=726. ACK=726
+[RUDP-GBN] Recebido em ordem DATA seq=727. ACK=727
+[RUDP-GBN] Recebido em ordem DATA seq=728. ACK=728
+[RUDP-GBN] Recebido em ordem DATA seq=729. ACK=729
+[RUDP-GBN] Recebido em ordem DATA seq=730. ACK=730
+[RUDP-GBN] Recebido em ordem DATA seq=731. ACK=731
+[RUDP-GBN] Recebido em ordem DATA seq=732. ACK=732
+[RUDP-GBN] Recebido em ordem DATA seq=733. ACK=733
+[RUDP-GBN] Recebido em ordem DATA seq=734. ACK=734
+[RUDP-GBN] Fora de ordem DATA seq=736. Esperado=735. Reenviando ACK=734
+[RUDP-GBN] Fora de ordem DATA seq=737. Esperado=735. Reenviando ACK=734
+[RUDP-GBN] Fora de ordem DATA seq=738. Esperado=735. Reenviando ACK=734
+[RUDP-GBN] Fora de ordem DATA seq=739. Esperado=735. Reenviando ACK=734
+[RUDP-GBN] Fora de ordem DATA seq=740. Esperado=735. Reenviando ACK=734
+[RUDP-GBN] Fora de ordem DATA seq=741. Esperado=735. Reenviando ACK=734
+[RUDP-GBN] Fora de ordem DATA seq=742. Esperado=735. Reenviando ACK=734
+[RUDP-GBN] Recebido em ordem DATA seq=735. ACK=735
+[RUDP-GBN] Recebido em ordem DATA seq=736. ACK=736
+[RUDP-GBN] Recebido em ordem DATA seq=737. ACK=737
+[RUDP-GBN] Recebido em ordem DATA seq=738. ACK=738
+[RUDP-GBN] Recebido em ordem DATA seq=739. ACK=739
+[RUDP-GBN] Recebido em ordem DATA seq=740. ACK=740
+[RUDP-GBN] Recebido em ordem DATA seq=741. ACK=741
+[RUDP-GBN] Recebido em ordem DATA seq=742. ACK=742
+[RUDP-GBN] Recebido em ordem DATA seq=743. ACK=743
+[RUDP-GBN] Recebido em ordem DATA seq=744. ACK=744
+[RUDP-GBN] Recebido em ordem DATA seq=745. ACK=745
+[RUDP-GBN] Recebido em ordem DATA seq=746. ACK=746
+[RUDP-GBN] Recebido em ordem DATA seq=747. ACK=747
+[RUDP-GBN] Recebido em ordem DATA seq=748. ACK=748
+[RUDP-GBN] Recebido em ordem DATA seq=749. ACK=749
+[RUDP-GBN] Recebido em ordem DATA seq=750. ACK=750
+[RUDP-GBN] Recebido em ordem DATA seq=751. ACK=751
+[RUDP-GBN] Recebido em ordem DATA seq=752. ACK=752
+[RUDP-GBN] Recebido em ordem DATA seq=753. ACK=753
+[RUDP-GBN] Fora de ordem DATA seq=755. Esperado=754. Reenviando ACK=753
+[RUDP-GBN] Fora de ordem DATA seq=756. Esperado=754. Reenviando ACK=753
+[RUDP-GBN] Fora de ordem DATA seq=757. Esperado=754. Reenviando ACK=753
+[RUDP-GBN] Fora de ordem DATA seq=758. Esperado=754. Reenviando ACK=753
+[RUDP-GBN] Fora de ordem DATA seq=759. Esperado=754. Reenviando ACK=753
+[RUDP-GBN] Fora de ordem DATA seq=760. Esperado=754. Reenviando ACK=753
+[RUDP-GBN] Recebido em ordem DATA seq=754. ACK=754
+[RUDP-GBN] Recebido em ordem DATA seq=755. ACK=755
+[RUDP-GBN] Recebido em ordem DATA seq=756. ACK=756
+[RUDP-GBN] Fora de ordem DATA seq=758. Esperado=757. Reenviando ACK=756
+[RUDP-GBN] Fora de ordem DATA seq=759. Esperado=757. Reenviando ACK=756
+[RUDP-GBN] Fora de ordem DATA seq=760. Esperado=757. Reenviando ACK=756
+[RUDP-GBN] Fora de ordem DATA seq=761. Esperado=757. Reenviando ACK=756
+[RUDP-GBN] Fora de ordem DATA seq=762. Esperado=757. Reenviando ACK=756
+[RUDP-GBN] Fora de ordem DATA seq=764. Esperado=757. Reenviando ACK=756
+[RUDP-GBN] Recebido em ordem DATA seq=757. ACK=757
+[RUDP-GBN] Recebido em ordem DATA seq=758. ACK=758
+[RUDP-GBN] Fora de ordem DATA seq=760. Esperado=759. Reenviando ACK=758
+[RUDP-GBN] Fora de ordem DATA seq=761. Esperado=759. Reenviando ACK=758
+[RUDP-GBN] Fora de ordem DATA seq=762. Esperado=759. Reenviando ACK=758
+[RUDP-GBN] Fora de ordem DATA seq=763. Esperado=759. Reenviando ACK=758
+[RUDP-GBN] Fora de ordem DATA seq=764. Esperado=759. Reenviando ACK=758
+[RUDP-GBN] Fora de ordem DATA seq=765. Esperado=759. Reenviando ACK=758
+[RUDP-GBN] Fora de ordem DATA seq=766. Esperado=759. Reenviando ACK=758
+[RUDP-GBN] Recebido em ordem DATA seq=759. ACK=759
+[RUDP-GBN] Recebido em ordem DATA seq=760. ACK=760
+[RUDP-GBN] Recebido em ordem DATA seq=761. ACK=761
+[RUDP-GBN] Recebido em ordem DATA seq=762. ACK=762
+[RUDP-GBN] Recebido em ordem DATA seq=763. ACK=763
+[RUDP-GBN] Recebido em ordem DATA seq=764. ACK=764
+[RUDP-GBN] Recebido em ordem DATA seq=765. ACK=765
+[RUDP-GBN] Recebido em ordem DATA seq=766. ACK=766
+[RUDP-GBN] Recebido em ordem DATA seq=767. ACK=767
+[RUDP-GBN] Recebido em ordem DATA seq=768. ACK=768
+[RUDP-GBN] Recebido em ordem DATA seq=769. ACK=769
+[RUDP-GBN] Recebido em ordem DATA seq=770. ACK=770
+[RUDP-GBN] Recebido em ordem DATA seq=771. ACK=771
+[RUDP-GBN] Recebido em ordem DATA seq=772. ACK=772
+[RUDP-GBN] Recebido em ordem DATA seq=773. ACK=773
+[RUDP-GBN] Recebido em ordem DATA seq=774. ACK=774
+[RUDP-GBN] Recebido em ordem DATA seq=775. ACK=775
+[RUDP-GBN] Recebido em ordem DATA seq=776. ACK=776
+[RUDP-GBN] Recebido em ordem DATA seq=777. ACK=777
+[RUDP-GBN] Recebido em ordem DATA seq=778. ACK=778
+[RUDP-GBN] Recebido em ordem DATA seq=779. ACK=779
+[RUDP-GBN] Recebido em ordem DATA seq=780. ACK=780
+[RUDP-GBN] Recebido em ordem DATA seq=781. ACK=781
+[RUDP-GBN] Recebido em ordem DATA seq=782. ACK=782
+[RUDP-GBN] Recebido em ordem DATA seq=783. ACK=783
+[RUDP-GBN] Recebido em ordem DATA seq=784. ACK=784
+[RUDP-GBN] Recebido em ordem DATA seq=785. ACK=785
+[RUDP-GBN] Recebido em ordem DATA seq=786. ACK=786
+[RUDP-GBN] Recebido em ordem DATA seq=787. ACK=787
+[RUDP-GBN] Recebido em ordem DATA seq=788. ACK=788
+[RUDP-GBN] Recebido em ordem DATA seq=789. ACK=789
+[RUDP-GBN] Recebido em ordem DATA seq=790. ACK=790
+[RUDP-GBN] Recebido em ordem DATA seq=791. ACK=791
+[RUDP-GBN] Recebido em ordem DATA seq=792. ACK=792
+[RUDP-GBN] Recebido em ordem DATA seq=793. ACK=793
+[RUDP-GBN] Recebido em ordem DATA seq=794. ACK=794
+[RUDP-GBN] Recebido em ordem DATA seq=795. ACK=795
+[RUDP-GBN] Recebido em ordem DATA seq=796. ACK=796
+[RUDP-GBN] Recebido em ordem DATA seq=797. ACK=797
+[RUDP-GBN] Recebido em ordem DATA seq=798. ACK=798
+[RUDP-GBN] Recebido em ordem DATA seq=799. ACK=799
+[RUDP-GBN] Recebido em ordem DATA seq=800. ACK=800
+[RUDP-GBN] Recebido em ordem DATA seq=801. ACK=801
+[RUDP-GBN] Recebido em ordem DATA seq=802. ACK=802
+[RUDP-GBN] Recebido em ordem DATA seq=803. ACK=803
+[RUDP-GBN] Recebido em ordem DATA seq=804. ACK=804
+[RUDP-GBN] Recebido em ordem DATA seq=805. ACK=805
+[RUDP-GBN] Fora de ordem DATA seq=807. Esperado=806. Reenviando ACK=805
+[RUDP-GBN] Fora de ordem DATA seq=808. Esperado=806. Reenviando ACK=805
+[RUDP-GBN] Fora de ordem DATA seq=809. Esperado=806. Reenviando ACK=805
+[RUDP-GBN] Fora de ordem DATA seq=811. Esperado=806. Reenviando ACK=805
+[RUDP-GBN] Fora de ordem DATA seq=812. Esperado=806. Reenviando ACK=805
+[RUDP-GBN] Fora de ordem DATA seq=813. Esperado=806. Reenviando ACK=805
+[RUDP-GBN] Recebido em ordem DATA seq=806. ACK=806
+[RUDP-GBN] Recebido em ordem DATA seq=807. ACK=807
+[RUDP-GBN] Recebido em ordem DATA seq=808. ACK=808
+[RUDP-GBN] Recebido em ordem DATA seq=809. ACK=809
+[RUDP-GBN] Recebido em ordem DATA seq=810. ACK=810
+[RUDP-GBN] Recebido em ordem DATA seq=811. ACK=811
+[RUDP-GBN] Recebido em ordem DATA seq=812. ACK=812
+[RUDP-GBN] Recebido em ordem DATA seq=813. ACK=813
+[RUDP-GBN] Recebido em ordem DATA seq=814. ACK=814
+[RUDP-GBN] Recebido em ordem DATA seq=815. ACK=815
+[RUDP-GBN] Recebido em ordem DATA seq=816. ACK=816
+[RUDP-GBN] Recebido em ordem DATA seq=817. ACK=817
+[RUDP-GBN] Recebido em ordem DATA seq=818. ACK=818
+[RUDP-GBN] Recebido em ordem DATA seq=819. ACK=819
+[RUDP-GBN] Recebido em ordem DATA seq=820. ACK=820
+[RUDP-GBN] Recebido em ordem DATA seq=821. ACK=821
+[RUDP-GBN] Recebido em ordem DATA seq=822. ACK=822
+[RUDP-GBN] Recebido em ordem DATA seq=823. ACK=823
+[RUDP-GBN] Recebido em ordem DATA seq=824. ACK=824
+[RUDP-GBN] Recebido em ordem DATA seq=825. ACK=825
+[RUDP-GBN] Recebido em ordem DATA seq=826. ACK=826
+[RUDP-GBN] Fora de ordem DATA seq=828. Esperado=827. Reenviando ACK=826
+[RUDP-GBN] Fora de ordem DATA seq=829. Esperado=827. Reenviando ACK=826
+[RUDP-GBN] Fora de ordem DATA seq=830. Esperado=827. Reenviando ACK=826
+[RUDP-GBN] Fora de ordem DATA seq=831. Esperado=827. Reenviando ACK=826
+[RUDP-GBN] Fora de ordem DATA seq=832. Esperado=827. Reenviando ACK=826
+[RUDP-GBN] Fora de ordem DATA seq=833. Esperado=827. Reenviando ACK=826
+[RUDP-GBN] Fora de ordem DATA seq=834. Esperado=827. Reenviando ACK=826
+[RUDP-GBN] Fora de ordem DATA seq=828. Esperado=827. Reenviando ACK=826
+[RUDP-GBN] Fora de ordem DATA seq=829. Esperado=827. Reenviando ACK=826
+[RUDP-GBN] Fora de ordem DATA seq=830. Esperado=827. Reenviando ACK=826
+[RUDP-GBN] Fora de ordem DATA seq=831. Esperado=827. Reenviando ACK=826
+[RUDP-GBN] Fora de ordem DATA seq=832. Esperado=827. Reenviando ACK=826
+[RUDP-GBN] Fora de ordem DATA seq=833. Esperado=827. Reenviando ACK=826
+[RUDP-GBN] Fora de ordem DATA seq=834. Esperado=827. Reenviando ACK=826
+[RUDP-GBN] Recebido em ordem DATA seq=827. ACK=827
+[RUDP-GBN] Recebido em ordem DATA seq=828. ACK=828
+[RUDP-GBN] Recebido em ordem DATA seq=829. ACK=829
+[RUDP-GBN] Recebido em ordem DATA seq=830. ACK=830
+[RUDP-GBN] Recebido em ordem DATA seq=831. ACK=831
+[RUDP-GBN] Recebido em ordem DATA seq=832. ACK=832
+[RUDP-GBN] Recebido em ordem DATA seq=833. ACK=833
+[RUDP-GBN] Recebido em ordem DATA seq=834. ACK=834
+[RUDP-GBN] Recebido em ordem DATA seq=835. ACK=835
+[RUDP-GBN] Recebido em ordem DATA seq=836. ACK=836
+[RUDP-GBN] Recebido em ordem DATA seq=837. ACK=837
+[RUDP-GBN] Recebido em ordem DATA seq=838. ACK=838
+[RUDP-GBN] Recebido em ordem DATA seq=839. ACK=839
+[RUDP-GBN] Fora de ordem DATA seq=842. Esperado=840. Reenviando ACK=839
+[RUDP-GBN] Fora de ordem DATA seq=843. Esperado=840. Reenviando ACK=839
+[RUDP-GBN] Fora de ordem DATA seq=845. Esperado=840. Reenviando ACK=839
+[RUDP-GBN] Fora de ordem DATA seq=846. Esperado=840. Reenviando ACK=839
+[RUDP-GBN] Fora de ordem DATA seq=847. Esperado=840. Reenviando ACK=839
+[RUDP-GBN] Fora de ordem DATA seq=842. Esperado=840. Reenviando ACK=839
+[RUDP-GBN] Fora de ordem DATA seq=843. Esperado=840. Reenviando ACK=839
+[RUDP-GBN] Fora de ordem DATA seq=844. Esperado=840. Reenviando ACK=839
+[RUDP-GBN] Fora de ordem DATA seq=845. Esperado=840. Reenviando ACK=839
+[RUDP-GBN] Fora de ordem DATA seq=847. Esperado=840. Reenviando ACK=839
+[RUDP-GBN] Recebido em ordem DATA seq=840. ACK=840
+[RUDP-GBN] Recebido em ordem DATA seq=841. ACK=841
+[RUDP-GBN] Recebido em ordem DATA seq=842. ACK=842
+[RUDP-GBN] Recebido em ordem DATA seq=843. ACK=843
+[RUDP-GBN] Recebido em ordem DATA seq=844. ACK=844
+[RUDP-GBN] Recebido em ordem DATA seq=845. ACK=845
+[RUDP-GBN] Recebido em ordem DATA seq=846. ACK=846
+[RUDP-GBN] Fora de ordem DATA seq=848. Esperado=847. Reenviando ACK=846
+[RUDP-GBN] Fora de ordem DATA seq=849. Esperado=847. Reenviando ACK=846
+[RUDP-GBN] Fora de ordem DATA seq=850. Esperado=847. Reenviando ACK=846
+[RUDP-GBN] Fora de ordem DATA seq=851. Esperado=847. Reenviando ACK=846
+[RUDP-GBN] Fora de ordem DATA seq=852. Esperado=847. Reenviando ACK=846
+[RUDP-GBN] Fora de ordem DATA seq=853. Esperado=847. Reenviando ACK=846
+[RUDP-GBN] Fora de ordem DATA seq=854. Esperado=847. Reenviando ACK=846
+[RUDP-GBN] Recebido em ordem DATA seq=847. ACK=847
+[RUDP-GBN] Fora de ordem DATA seq=849. Esperado=848. Reenviando ACK=847
+[RUDP-GBN] Fora de ordem DATA seq=850. Esperado=848. Reenviando ACK=847
+[RUDP-GBN] Fora de ordem DATA seq=851. Esperado=848. Reenviando ACK=847
+[RUDP-GBN] Fora de ordem DATA seq=852. Esperado=848. Reenviando ACK=847
+[RUDP-GBN] Fora de ordem DATA seq=853. Esperado=848. Reenviando ACK=847
+[RUDP-GBN] Fora de ordem DATA seq=854. Esperado=848. Reenviando ACK=847
+[RUDP-GBN] Fora de ordem DATA seq=855. Esperado=848. Reenviando ACK=847
+[RUDP-GBN] Recebido em ordem DATA seq=848. ACK=848
+[RUDP-GBN] Recebido em ordem DATA seq=849. ACK=849
+[RUDP-GBN] Recebido em ordem DATA seq=850. ACK=850
+[RUDP-GBN] Recebido em ordem DATA seq=851. ACK=851
+[RUDP-GBN] Recebido em ordem DATA seq=852. ACK=852
+[RUDP-GBN] Recebido em ordem DATA seq=853. ACK=853
+[RUDP-GBN] Recebido em ordem DATA seq=854. ACK=854
+[RUDP-GBN] Recebido em ordem DATA seq=855. ACK=855
+[RUDP-GBN] Recebido em ordem DATA seq=856. ACK=856
+[RUDP-GBN] Recebido em ordem DATA seq=857. ACK=857
+[RUDP-GBN] Recebido em ordem DATA seq=858. ACK=858
+[RUDP-GBN] Recebido em ordem DATA seq=859. ACK=859
+[RUDP-GBN] Recebido em ordem DATA seq=860. ACK=860
+[RUDP-GBN] Recebido em ordem DATA seq=861. ACK=861
+[RUDP-GBN] Recebido em ordem DATA seq=862. ACK=862
+[RUDP-GBN] Recebido em ordem DATA seq=863. ACK=863
+[RUDP-GBN] Recebido em ordem DATA seq=864. ACK=864
+[RUDP-GBN] Fora de ordem DATA seq=866. Esperado=865. Reenviando ACK=864
+[RUDP-GBN] Fora de ordem DATA seq=867. Esperado=865. Reenviando ACK=864
+[RUDP-GBN] Fora de ordem DATA seq=868. Esperado=865. Reenviando ACK=864
+[RUDP-GBN] Fora de ordem DATA seq=869. Esperado=865. Reenviando ACK=864
+[RUDP-GBN] Fora de ordem DATA seq=870. Esperado=865. Reenviando ACK=864
+[RUDP-GBN] Fora de ordem DATA seq=871. Esperado=865. Reenviando ACK=864
+[RUDP-GBN] Fora de ordem DATA seq=872. Esperado=865. Reenviando ACK=864
+[RUDP-GBN] Recebido em ordem DATA seq=865. ACK=865
+[RUDP-GBN] Recebido em ordem DATA seq=866. ACK=866
+[RUDP-GBN] Recebido em ordem DATA seq=867. ACK=867
+[RUDP-GBN] Recebido em ordem DATA seq=868. ACK=868
+[RUDP-GBN] Recebido em ordem DATA seq=869. ACK=869
+[RUDP-GBN] Recebido em ordem DATA seq=870. ACK=870
+[RUDP-GBN] Fora de ordem DATA seq=872. Esperado=871. Reenviando ACK=870
+[RUDP-GBN] Fora de ordem DATA seq=873. Esperado=871. Reenviando ACK=870
+[RUDP-GBN] Fora de ordem DATA seq=874. Esperado=871. Reenviando ACK=870
+[RUDP-GBN] Fora de ordem DATA seq=875. Esperado=871. Reenviando ACK=870
+[RUDP-GBN] Fora de ordem DATA seq=876. Esperado=871. Reenviando ACK=870
+[RUDP-GBN] Fora de ordem DATA seq=877. Esperado=871. Reenviando ACK=870
+[RUDP-GBN] Fora de ordem DATA seq=878. Esperado=871. Reenviando ACK=870
+[RUDP-GBN] Recebido em ordem DATA seq=871. ACK=871
+[RUDP-GBN] Recebido em ordem DATA seq=872. ACK=872
+[RUDP-GBN] Recebido em ordem DATA seq=873. ACK=873
+[RUDP-GBN] Recebido em ordem DATA seq=874. ACK=874
+[RUDP-GBN] Recebido em ordem DATA seq=875. ACK=875
+[RUDP-GBN] Recebido em ordem DATA seq=876. ACK=876
+[RUDP-GBN] Recebido em ordem DATA seq=877. ACK=877
+[RUDP-GBN] Recebido em ordem DATA seq=878. ACK=878
+[RUDP-GBN] Recebido em ordem DATA seq=879. ACK=879
+[RUDP-GBN] Fora de ordem DATA seq=881. Esperado=880. Reenviando ACK=879
+[RUDP-GBN] Fora de ordem DATA seq=882. Esperado=880. Reenviando ACK=879
+[RUDP-GBN] Fora de ordem DATA seq=883. Esperado=880. Reenviando ACK=879
+[RUDP-GBN] Fora de ordem DATA seq=884. Esperado=880. Reenviando ACK=879
+[RUDP-GBN] Fora de ordem DATA seq=887. Esperado=880. Reenviando ACK=879
+[RUDP-GBN] Recebido em ordem DATA seq=880. ACK=880
+[RUDP-GBN] Recebido em ordem DATA seq=881. ACK=881
+[RUDP-GBN] Recebido em ordem DATA seq=882. ACK=882
+[RUDP-GBN] Recebido em ordem DATA seq=883. ACK=883
+[RUDP-GBN] Recebido em ordem DATA seq=884. ACK=884
+[RUDP-GBN] Fora de ordem DATA seq=886. Esperado=885. Reenviando ACK=884
+[RUDP-GBN] Fora de ordem DATA seq=887. Esperado=885. Reenviando ACK=884
+[RUDP-GBN] Fora de ordem DATA seq=888. Esperado=885. Reenviando ACK=884
+[RUDP-GBN] Fora de ordem DATA seq=889. Esperado=885. Reenviando ACK=884
+[RUDP-GBN] Fora de ordem DATA seq=890. Esperado=885. Reenviando ACK=884
+[RUDP-GBN] Fora de ordem DATA seq=891. Esperado=885. Reenviando ACK=884
+[RUDP-GBN] Fora de ordem DATA seq=892. Esperado=885. Reenviando ACK=884
+[RUDP-GBN] Recebido em ordem DATA seq=885. ACK=885
+[RUDP-GBN] Recebido em ordem DATA seq=886. ACK=886
+[RUDP-GBN] Recebido em ordem DATA seq=887. ACK=887
+[RUDP-GBN] Recebido em ordem DATA seq=888. ACK=888
+[RUDP-GBN] Fora de ordem DATA seq=890. Esperado=889. Reenviando ACK=888
+[RUDP-GBN] Fora de ordem DATA seq=891. Esperado=889. Reenviando ACK=888
+[RUDP-GBN] Fora de ordem DATA seq=892. Esperado=889. Reenviando ACK=888
+[RUDP-GBN] Fora de ordem DATA seq=893. Esperado=889. Reenviando ACK=888
+[RUDP-GBN] Fora de ordem DATA seq=895. Esperado=889. Reenviando ACK=888
+[RUDP-GBN] Fora de ordem DATA seq=896. Esperado=889. Reenviando ACK=888
+[RUDP-GBN] Recebido em ordem DATA seq=889. ACK=889
+[RUDP-GBN] Recebido em ordem DATA seq=890. ACK=890
+[RUDP-GBN] Recebido em ordem DATA seq=891. ACK=891
+[RUDP-GBN] Recebido em ordem DATA seq=892. ACK=892
+[RUDP-GBN] Recebido em ordem DATA seq=893. ACK=893
+[RUDP-GBN] Recebido em ordem DATA seq=894. ACK=894
+[RUDP-GBN] Recebido em ordem DATA seq=895. ACK=895
+[RUDP-GBN] Recebido em ordem DATA seq=896. ACK=896
+[RUDP-GBN] Fora de ordem DATA seq=898. Esperado=897. Reenviando ACK=896
+[RUDP-GBN] Fora de ordem DATA seq=900. Esperado=897. Reenviando ACK=896
+[RUDP-GBN] Fora de ordem DATA seq=901. Esperado=897. Reenviando ACK=896
+[RUDP-GBN] Fora de ordem DATA seq=902. Esperado=897. Reenviando ACK=896
+[RUDP-GBN] Fora de ordem DATA seq=903. Esperado=897. Reenviando ACK=896
+[RUDP-GBN] Fora de ordem DATA seq=904. Esperado=897. Reenviando ACK=896
+[RUDP-GBN] Recebido em ordem DATA seq=897. ACK=897
+[RUDP-GBN] Recebido em ordem DATA seq=898. ACK=898
+[RUDP-GBN] Recebido em ordem DATA seq=899. ACK=899
+[RUDP-GBN] Recebido em ordem DATA seq=900. ACK=900
+[RUDP-GBN] Recebido em ordem DATA seq=901. ACK=901
+[RUDP-GBN] Recebido em ordem DATA seq=902. ACK=902
+[RUDP-GBN] Fora de ordem DATA seq=904. Esperado=903. Reenviando ACK=902
+[RUDP-GBN] Fora de ordem DATA seq=905. Esperado=903. Reenviando ACK=902
+[RUDP-GBN] Fora de ordem DATA seq=906. Esperado=903. Reenviando ACK=902
+[RUDP-GBN] Fora de ordem DATA seq=907. Esperado=903. Reenviando ACK=902
+[RUDP-GBN] Fora de ordem DATA seq=909. Esperado=903. Reenviando ACK=902
+[RUDP-GBN] Fora de ordem DATA seq=910. Esperado=903. Reenviando ACK=902
+[RUDP-GBN] Recebido em ordem DATA seq=903. ACK=903
+[RUDP-GBN] Recebido em ordem DATA seq=904. ACK=904
+[RUDP-GBN] Recebido em ordem DATA seq=905. ACK=905
+[RUDP-GBN] Fora de ordem DATA seq=907. Esperado=906. Reenviando ACK=905
+[RUDP-GBN] Fora de ordem DATA seq=908. Esperado=906. Reenviando ACK=905
+[RUDP-GBN] Fora de ordem DATA seq=909. Esperado=906. Reenviando ACK=905
+[RUDP-GBN] Fora de ordem DATA seq=910. Esperado=906. Reenviando ACK=905
+[RUDP-GBN] Fora de ordem DATA seq=912. Esperado=906. Reenviando ACK=905
+[RUDP-GBN] Fora de ordem DATA seq=913. Esperado=906. Reenviando ACK=905
+[RUDP-GBN] Recebido em ordem DATA seq=906. ACK=906
+[RUDP-GBN] Recebido em ordem DATA seq=907. ACK=907
+[RUDP-GBN] Recebido em ordem DATA seq=908. ACK=908
+[RUDP-GBN] Recebido em ordem DATA seq=909. ACK=909
+[RUDP-GBN] Recebido em ordem DATA seq=910. ACK=910
+[RUDP-GBN] Recebido em ordem DATA seq=911. ACK=911
+[RUDP-GBN] Fora de ordem DATA seq=913. Esperado=912. Reenviando ACK=911
+[RUDP-GBN] Fora de ordem DATA seq=914. Esperado=912. Reenviando ACK=911
+[RUDP-GBN] Fora de ordem DATA seq=915. Esperado=912. Reenviando ACK=911
+[RUDP-GBN] Fora de ordem DATA seq=916. Esperado=912. Reenviando ACK=911
+[RUDP-GBN] Fora de ordem DATA seq=917. Esperado=912. Reenviando ACK=911
+[RUDP-GBN] Fora de ordem DATA seq=919. Esperado=912. Reenviando ACK=911
+[RUDP-GBN] Recebido em ordem DATA seq=912. ACK=912
+[RUDP-GBN] Recebido em ordem DATA seq=913. ACK=913
+[RUDP-GBN] Recebido em ordem DATA seq=914. ACK=914
+[RUDP-GBN] Recebido em ordem DATA seq=915. ACK=915
+[RUDP-GBN] Recebido em ordem DATA seq=916. ACK=916
+[RUDP-GBN] Recebido em ordem DATA seq=917. ACK=917
+[RUDP-GBN] Recebido em ordem DATA seq=918. ACK=918
+[RUDP-GBN] Recebido em ordem DATA seq=919. ACK=919
+[RUDP-GBN] Recebido em ordem DATA seq=920. ACK=920
+[RUDP-GBN] Recebido em ordem DATA seq=921. ACK=921
+[RUDP-GBN] Recebido em ordem DATA seq=922. ACK=922
+[RUDP-GBN] Recebido em ordem DATA seq=923. ACK=923
+[RUDP-GBN] Recebido em ordem DATA seq=924. ACK=924
+[RUDP-GBN] Recebido em ordem DATA seq=925. ACK=925
+[RUDP-GBN] Recebido em ordem DATA seq=926. ACK=926
+[RUDP-GBN] Recebido em ordem DATA seq=927. ACK=927
+[RUDP-GBN] Recebido em ordem DATA seq=928. ACK=928
+[RUDP-GBN] Recebido em ordem DATA seq=929. ACK=929
+[RUDP-GBN] Recebido em ordem DATA seq=930. ACK=930
+[RUDP-GBN] Recebido em ordem DATA seq=931. ACK=931
+[RUDP-GBN] Recebido em ordem DATA seq=932. ACK=932
+[RUDP-GBN] Recebido em ordem DATA seq=933. ACK=933
+[RUDP-GBN] Recebido em ordem DATA seq=934. ACK=934
+[RUDP-GBN] Recebido em ordem DATA seq=935. ACK=935
+[RUDP-GBN] Recebido em ordem DATA seq=936. ACK=936
+[RUDP-GBN] Recebido em ordem DATA seq=937. ACK=937
+[RUDP-GBN] Recebido em ordem DATA seq=938. ACK=938
+[RUDP-GBN] Recebido em ordem DATA seq=939. ACK=939
+[RUDP-GBN] Recebido em ordem DATA seq=940. ACK=940
+[RUDP-GBN] Recebido em ordem DATA seq=941. ACK=941
+[RUDP-GBN] Recebido em ordem DATA seq=942. ACK=942
+[RUDP-GBN] Fora de ordem DATA seq=944. Esperado=943. Reenviando ACK=942
+[RUDP-GBN] Fora de ordem DATA seq=945. Esperado=943. Reenviando ACK=942
+[RUDP-GBN] Fora de ordem DATA seq=946. Esperado=943. Reenviando ACK=942
+[RUDP-GBN] Fora de ordem DATA seq=947. Esperado=943. Reenviando ACK=942
+[RUDP-GBN] Fora de ordem DATA seq=948. Esperado=943. Reenviando ACK=942
+[RUDP-GBN] Fora de ordem DATA seq=950. Esperado=943. Reenviando ACK=942
+[RUDP-GBN] Recebido em ordem DATA seq=943. ACK=943
+[RUDP-GBN] Recebido em ordem DATA seq=944. ACK=944
+[RUDP-GBN] Recebido em ordem DATA seq=945. ACK=945
+[RUDP-GBN] Recebido em ordem DATA seq=946. ACK=946
+[RUDP-GBN] Recebido em ordem DATA seq=947. ACK=947
+[RUDP-GBN] Recebido em ordem DATA seq=948. ACK=948
+[RUDP-GBN] Recebido em ordem DATA seq=949. ACK=949
+[RUDP-GBN] Recebido em ordem DATA seq=950. ACK=950
+[RUDP-GBN] Recebido em ordem DATA seq=951. ACK=951
+[RUDP-GBN] Fora de ordem DATA seq=953. Esperado=952. Reenviando ACK=951
+[RUDP-GBN] Fora de ordem DATA seq=954. Esperado=952. Reenviando ACK=951
+[RUDP-GBN] Fora de ordem DATA seq=955. Esperado=952. Reenviando ACK=951
+[RUDP-GBN] Fora de ordem DATA seq=956. Esperado=952. Reenviando ACK=951
+[RUDP-GBN] Fora de ordem DATA seq=957. Esperado=952. Reenviando ACK=951
+[RUDP-GBN] Fora de ordem DATA seq=958. Esperado=952. Reenviando ACK=951
+[RUDP-GBN] Fora de ordem DATA seq=959. Esperado=952. Reenviando ACK=951
+[RUDP-GBN] Recebido em ordem DATA seq=952. ACK=952
+[RUDP-GBN] Recebido em ordem DATA seq=953. ACK=953
+[RUDP-GBN] Recebido em ordem DATA seq=954. ACK=954
+[RUDP-GBN] Recebido em ordem DATA seq=955. ACK=955
+[RUDP-GBN] Recebido em ordem DATA seq=956. ACK=956
+[RUDP-GBN] Recebido em ordem DATA seq=957. ACK=957
+[RUDP-GBN] Recebido em ordem DATA seq=958. ACK=958
+[RUDP-GBN] Recebido em ordem DATA seq=959. ACK=959
+[RUDP-GBN] Fora de ordem DATA seq=961. Esperado=960. Reenviando ACK=959
+[RUDP-GBN] Fora de ordem DATA seq=962. Esperado=960. Reenviando ACK=959
+[RUDP-GBN] Fora de ordem DATA seq=963. Esperado=960. Reenviando ACK=959
+[RUDP-GBN] Fora de ordem DATA seq=964. Esperado=960. Reenviando ACK=959
+[RUDP-GBN] Fora de ordem DATA seq=965. Esperado=960. Reenviando ACK=959
+[RUDP-GBN] Fora de ordem DATA seq=966. Esperado=960. Reenviando ACK=959
+[RUDP-GBN] Fora de ordem DATA seq=967. Esperado=960. Reenviando ACK=959
+[RUDP-GBN] Recebido em ordem DATA seq=960. ACK=960
+[RUDP-GBN] Recebido em ordem DATA seq=961. ACK=961
+[RUDP-GBN] Recebido em ordem DATA seq=962. ACK=962
+[RUDP-GBN] Recebido em ordem DATA seq=963. ACK=963
+[RUDP-GBN] Recebido em ordem DATA seq=964. ACK=964
+[RUDP-GBN] Recebido em ordem DATA seq=965. ACK=965
+[RUDP-GBN] Fora de ordem DATA seq=967. Esperado=966. Reenviando ACK=965
+[RUDP-GBN] Fora de ordem DATA seq=968. Esperado=966. Reenviando ACK=965
+[RUDP-GBN] Fora de ordem DATA seq=969. Esperado=966. Reenviando ACK=965
+[RUDP-GBN] Fora de ordem DATA seq=970. Esperado=966. Reenviando ACK=965
+[RUDP-GBN] Fora de ordem DATA seq=972. Esperado=966. Reenviando ACK=965
+[RUDP-GBN] Fora de ordem DATA seq=973. Esperado=966. Reenviando ACK=965
+[RUDP-GBN] Recebido em ordem DATA seq=966. ACK=966
+[RUDP-GBN] Fora de ordem DATA seq=968. Esperado=967. Reenviando ACK=966
+[RUDP-GBN] Fora de ordem DATA seq=970. Esperado=967. Reenviando ACK=966
+[RUDP-GBN] Fora de ordem DATA seq=971. Esperado=967. Reenviando ACK=966
+[RUDP-GBN] Fora de ordem DATA seq=972. Esperado=967. Reenviando ACK=966
+[RUDP-GBN] Fora de ordem DATA seq=974. Esperado=967. Reenviando ACK=966
+[RUDP-GBN] Recebido em ordem DATA seq=967. ACK=967
+[RUDP-GBN] Recebido em ordem DATA seq=968. ACK=968
+[RUDP-GBN] Fora de ordem DATA seq=970. Esperado=969. Reenviando ACK=968
+[RUDP-GBN] Fora de ordem DATA seq=971. Esperado=969. Reenviando ACK=968
+[RUDP-GBN] Fora de ordem DATA seq=972. Esperado=969. Reenviando ACK=968
+[RUDP-GBN] Fora de ordem DATA seq=974. Esperado=969. Reenviando ACK=968
+[RUDP-GBN] Fora de ordem DATA seq=975. Esperado=969. Reenviando ACK=968
+[RUDP-GBN] Fora de ordem DATA seq=976. Esperado=969. Reenviando ACK=968
+[RUDP-GBN] Recebido em ordem DATA seq=969. ACK=969
+[RUDP-GBN] Fora de ordem DATA seq=972. Esperado=970. Reenviando ACK=969
+[RUDP-GBN] Fora de ordem DATA seq=973. Esperado=970. Reenviando ACK=969
+[RUDP-GBN] Fora de ordem DATA seq=974. Esperado=970. Reenviando ACK=969
+[RUDP-GBN] Fora de ordem DATA seq=975. Esperado=970. Reenviando ACK=969
+[RUDP-GBN] Fora de ordem DATA seq=976. Esperado=970. Reenviando ACK=969
+[RUDP-GBN] Fora de ordem DATA seq=977. Esperado=970. Reenviando ACK=969
+[RUDP-GBN] Recebido em ordem DATA seq=970. ACK=970
+[RUDP-GBN] Recebido em ordem DATA seq=971. ACK=971
+[RUDP-GBN] Recebido em ordem DATA seq=972. ACK=972
+[RUDP-GBN] Recebido em ordem DATA seq=973. ACK=973
+[RUDP-GBN] Recebido em ordem DATA seq=974. ACK=974
+[RUDP-GBN] Recebido em ordem DATA seq=975. ACK=975
+[RUDP-GBN] Recebido em ordem DATA seq=976. ACK=976
+[RUDP-GBN] Recebido em ordem DATA seq=977. ACK=977
+[RUDP-GBN] Recebido em ordem DATA seq=978. ACK=978
+[RUDP-GBN] Recebido em ordem DATA seq=979. ACK=979
+[RUDP-GBN] Recebido em ordem DATA seq=980. ACK=980
+[RUDP-GBN] Recebido em ordem DATA seq=981. ACK=981
+[RUDP-GBN] Fora de ordem DATA seq=983. Esperado=982. Reenviando ACK=981
+[RUDP-GBN] Fora de ordem DATA seq=984. Esperado=982. Reenviando ACK=981
+[RUDP-GBN] Fora de ordem DATA seq=985. Esperado=982. Reenviando ACK=981
+[RUDP-GBN] Fora de ordem DATA seq=986. Esperado=982. Reenviando ACK=981
+[RUDP-GBN] Fora de ordem DATA seq=987. Esperado=982. Reenviando ACK=981
+[RUDP-GBN] Fora de ordem DATA seq=988. Esperado=982. Reenviando ACK=981
+[RUDP-GBN] Fora de ordem DATA seq=989. Esperado=982. Reenviando ACK=981
+[RUDP-GBN] Recebido em ordem DATA seq=982. ACK=982
+[RUDP-GBN] Recebido em ordem DATA seq=983. ACK=983
+[RUDP-GBN] Recebido em ordem DATA seq=984. ACK=984
+[RUDP-GBN] Recebido em ordem DATA seq=985. ACK=985
+[RUDP-GBN] Fora de ordem DATA seq=987. Esperado=986. Reenviando ACK=985
+[RUDP-GBN] Fora de ordem DATA seq=988. Esperado=986. Reenviando ACK=985
+[RUDP-GBN] Fora de ordem DATA seq=989. Esperado=986. Reenviando ACK=985
+[RUDP-GBN] Fora de ordem DATA seq=990. Esperado=986. Reenviando ACK=985
+[RUDP-GBN] Fora de ordem DATA seq=992. Esperado=986. Reenviando ACK=985
+[RUDP-GBN] Fora de ordem DATA seq=993. Esperado=986. Reenviando ACK=985
+[RUDP-GBN] Recebido em ordem DATA seq=986. ACK=986
+[RUDP-GBN] Fora de ordem DATA seq=988. Esperado=987. Reenviando ACK=986
+[RUDP-GBN] Fora de ordem DATA seq=989. Esperado=987. Reenviando ACK=986
+[RUDP-GBN] Fora de ordem DATA seq=991. Esperado=987. Reenviando ACK=986
+[RUDP-GBN] Fora de ordem DATA seq=992. Esperado=987. Reenviando ACK=986
+[RUDP-GBN] Fora de ordem DATA seq=993. Esperado=987. Reenviando ACK=986
+[RUDP-GBN] Recebido em ordem DATA seq=987. ACK=987
+[RUDP-GBN] Recebido em ordem DATA seq=988. ACK=988
+[RUDP-GBN] Recebido em ordem DATA seq=989. ACK=989
+[RUDP-GBN] Recebido em ordem DATA seq=990. ACK=990
+[RUDP-GBN] Recebido em ordem DATA seq=991. ACK=991
+[RUDP-GBN] Recebido em ordem DATA seq=992. ACK=992
+[RUDP-GBN] Recebido em ordem DATA seq=993. ACK=993
+[RUDP-GBN] Recebido em ordem DATA seq=994. ACK=994
+[RUDP-GBN] Recebido em ordem DATA seq=995. ACK=995
+[RUDP-GBN] Recebido em ordem DATA seq=996. ACK=996
+[RUDP-GBN] Recebido em ordem DATA seq=997. ACK=997
+[RUDP-GBN] Recebido em ordem DATA seq=998. ACK=998
+[RUDP-GBN] Recebido em ordem DATA seq=999. ACK=999
+[RUDP-GBN] Recebido em ordem DATA seq=1000. ACK=1000
+[RUDP-GBN] Fora de ordem DATA seq=1002. Esperado=1001. Reenviando ACK=1000
+[RUDP-GBN] Fora de ordem DATA seq=1003. Esperado=1001. Reenviando ACK=1000
+[RUDP-GBN] Fora de ordem DATA seq=1004. Esperado=1001. Reenviando ACK=1000
+[RUDP-GBN] Fora de ordem DATA seq=1005. Esperado=1001. Reenviando ACK=1000
+[RUDP-GBN] Fora de ordem DATA seq=1006. Esperado=1001. Reenviando ACK=1000
+[RUDP-GBN] Fora de ordem DATA seq=1007. Esperado=1001. Reenviando ACK=1000
+[RUDP-GBN] Fora de ordem DATA seq=1008. Esperado=1001. Reenviando ACK=1000
+[RUDP-GBN] Recebido em ordem DATA seq=1001. ACK=1001
+[RUDP-GBN] Fora de ordem DATA seq=1003. Esperado=1002. Reenviando ACK=1001
+[RUDP-GBN] Fora de ordem DATA seq=1004. Esperado=1002. Reenviando ACK=1001
+[RUDP-GBN] Fora de ordem DATA seq=1005. Esperado=1002. Reenviando ACK=1001
+[RUDP-GBN] Fora de ordem DATA seq=1006. Esperado=1002. Reenviando ACK=1001
+[RUDP-GBN] Fora de ordem DATA seq=1007. Esperado=1002. Reenviando ACK=1001
+[RUDP-GBN] Fora de ordem DATA seq=1008. Esperado=1002. Reenviando ACK=1001
+[RUDP-GBN] Fora de ordem DATA seq=1009. Esperado=1002. Reenviando ACK=1001
+[RUDP-GBN] Recebido em ordem DATA seq=1002. ACK=1002
+[RUDP-GBN] Recebido em ordem DATA seq=1003. ACK=1003
+[RUDP-GBN] Recebido em ordem DATA seq=1004. ACK=1004
+[RUDP-GBN] Recebido em ordem DATA seq=1005. ACK=1005
+[RUDP-GBN] Recebido em ordem DATA seq=1006. ACK=1006
+[RUDP-GBN] Recebido em ordem DATA seq=1007. ACK=1007
+[RUDP-GBN] Recebido em ordem DATA seq=1008. ACK=1008
+[RUDP-GBN] Recebido em ordem DATA seq=1009. ACK=1009
+[RUDP-GBN] Recebido em ordem DATA seq=1010. ACK=1010
+[RUDP-GBN] Recebido em ordem DATA seq=1011. ACK=1011
+[RUDP-GBN] Recebido em ordem DATA seq=1012. ACK=1012
+[RUDP-GBN] Fora de ordem DATA seq=1014. Esperado=1013. Reenviando ACK=1012
+[RUDP-GBN] Fora de ordem DATA seq=1015. Esperado=1013. Reenviando ACK=1012
+[RUDP-GBN] Fora de ordem DATA seq=1017. Esperado=1013. Reenviando ACK=1012
+[RUDP-GBN] Fora de ordem DATA seq=1018. Esperado=1013. Reenviando ACK=1012
+[RUDP-GBN] Fora de ordem DATA seq=1019. Esperado=1013. Reenviando ACK=1012
+[RUDP-GBN] Fora de ordem DATA seq=1020. Esperado=1013. Reenviando ACK=1012
+[RUDP-GBN] Fora de ordem DATA seq=1014. Esperado=1013. Reenviando ACK=1012
+[RUDP-GBN] Fora de ordem DATA seq=1015. Esperado=1013. Reenviando ACK=1012
+[RUDP-GBN] Fora de ordem DATA seq=1016. Esperado=1013. Reenviando ACK=1012
+[RUDP-GBN] Fora de ordem DATA seq=1017. Esperado=1013. Reenviando ACK=1012
+[RUDP-GBN] Fora de ordem DATA seq=1019. Esperado=1013. Reenviando ACK=1012
+[RUDP-GBN] Fora de ordem DATA seq=1020. Esperado=1013. Reenviando ACK=1012
+[RUDP-GBN] Recebido em ordem DATA seq=1013. ACK=1013
+[RUDP-GBN] Recebido em ordem DATA seq=1014. ACK=1014
+[RUDP-GBN] Recebido em ordem DATA seq=1015. ACK=1015
+[RUDP-GBN] Recebido em ordem DATA seq=1016. ACK=1016
+[RUDP-GBN] Recebido em ordem DATA seq=1017. ACK=1017
+[RUDP-GBN] Recebido em ordem DATA seq=1018. ACK=1018
+[RUDP-GBN] Recebido em ordem DATA seq=1019. ACK=1019
+[RUDP-GBN] Recebido em ordem DATA seq=1020. ACK=1020
+[RUDP-GBN] Recebido em ordem DATA seq=1021. ACK=1021
+[RUDP-GBN] Recebido em ordem DATA seq=1022. ACK=1022
+[RUDP-GBN] Recebido em ordem DATA seq=1023. ACK=1023
+[RUDP-GBN] Recebido FIN
+[RUDP-GBN] Enviado FIN-ACK
+[RUDP-GBN] Transferência finalizada

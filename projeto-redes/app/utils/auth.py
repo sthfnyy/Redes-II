@@ -4,17 +4,10 @@
 import hashlib
 
 
-MATRICULA = "2023123456" #no teste verificar se tem que ser o meu mesmo
-NOME = "Morgana_Moura_Gomes"
+MATRICULA = "20189053789"
+NOME = "Sthefany_Moura_Godinho"
 
 
 def get_auth_hash():
     value = MATRICULA + NOME
     return hashlib.sha256(value.encode()).hexdigest()
-    #
-    """
-    Gera o hash SHA-256 exigido no cabeçalho X-Custom-Auth.
-
-    O valor usado é:
-        matrícula + nome
-    """

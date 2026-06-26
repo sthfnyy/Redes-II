@@ -1,12 +1,25 @@
-cat >> .gitignore <<'EOF'
+cat > .gitignore <<'EOF'
+# Arquivos de ambiente
+config.env
+*.env
 
-# Ambientes virtuais
+# Ambientes virtuais Python
 venv/
 .venv/
 */venv/
 */.venv/
 
-# Arquivos grandes / documentos locais
+# Arquivos que não devem subir
 *.zip
 *.pdf
+
+# Node
+node_modules/
+
+# Python cache
+__pycache__/
+*.pyc
+
+# Pastas privadas
+pasta_secreta/
 EOF

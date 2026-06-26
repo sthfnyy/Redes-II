@@ -1,9 +1,12 @@
-# Ignora um arquivo específico
-config.env
+cat >> .gitignore <<'EOF'
 
-# Ignora todos os arquivos .env
-*.env
+# Ambientes virtuais
+venv/
+.venv/
+*/venv/
+*/.venv/
 
-# Ignora uma pasta inteira
-node_modules/
-pasta_secreta/
+# Arquivos grandes / documentos locais
+*.zip
+*.pdf
+EOF

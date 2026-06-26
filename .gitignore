@@ -1,0 +1,12 @@
+cat >> .gitignore <<'EOF'
+
+# Ambientes virtuais
+venv/
+.venv/
+*/venv/
+*/.venv/
+
+# Arquivos grandes / documentos locais
+*.zip
+*.pdf
+EOF

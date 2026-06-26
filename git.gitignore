@@ -1,0 +1,9 @@
+# Ignora um arquivo específico
+config.env
+
+# Ignora todos os arquivos .env
+*.env
+*.zip
+# Ignora uma pasta inteira
+node_modules/
+pasta_secreta/

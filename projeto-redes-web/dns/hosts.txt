@@ -1,0 +1,2 @@
+www.sthefany.local 172.28.0.3
+static.sthefany.local 172.28.0.3

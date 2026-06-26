@@ -1,0 +1,52 @@
+services:
+  dns_server:
+    build:
+      context: ..
+      dockerfile: docker/Dockerfile
+    container_name: redes_dns
+    privileged: true
+    command: /bin/bash
+    tty: true
+    stdin_open: true
+    volumes:
+      - ..:/workspace
+    networks:
+      redes_net:
+        ipv4_address: 172.28.0.2
+
+  web_server:
+    build:
+      context: ..
+      dockerfile: docker/Dockerfile
+    container_name: redes_web_server
+    privileged: true
+    command: /bin/bash
+    tty: true
+    stdin_open: true
+    volumes:
+      - ..:/workspace
+    networks:
+      redes_net:
+        ipv4_address: 172.28.0.3
+
+  web_client:
+    build:
+      context: ..
+      dockerfile: docker/Dockerfile
+    container_name: redes_web_client
+    privileged: true
+    command: /bin/bash
+    tty: true
+    stdin_open: true
+    volumes:
+      - ..:/workspace
+    networks:
+      redes_net:
+        ipv4_address: 172.28.0.4
+
+networks:
+  redes_net:
+    driver: bridge
+    ipam:
+      config:
+        - subnet: 172.28.0.0/16
